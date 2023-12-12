@@ -6,7 +6,7 @@
       "name": "😸自建线路0723"
     },
     {
-      "url": "https://jihulab.com/gly/tv/-/raw/main/0726.json",
+      "url": "https://gitee.com/china_19_0/tv/blob/main/0726.json",
       "name": "😸自建线路0726"
     },
     {
