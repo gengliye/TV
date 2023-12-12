@@ -1,0 +1,42 @@
+{
+  "urls": [
+   
+    {
+      "url": "https://jihulab.com/gly/tv/-/raw/main/0723.json",
+      "name": "😸自建线路"
+    },
+  
+    {
+      "url": "http://52bsj.vip:98/wuai",
+      "name": "🌹吾爱线路"
+    },
+    {
+      "url": "http://9xi4o.tk/0725.json",
+      "name": "🎬4K线路"
+    },
+  
+    {
+      "url": "https://aoki.fun/青木",
+      "name": "☁️青木"
+    },
+     {
+      "url": "https://tvbox.cainisi.cf",
+      "name": "❀菜妮斯"
+    },
+    {
+      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "name": "待分析线路"
+    },
+
+    {
+      "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+      "name": "🥳巧技线路"
+    }
+  ],
+  "vip": [
+    {
+      "url": "",
+      "name": "默认"
+    }
+  ]
+}
