@@ -153,28 +153,7 @@
 }, 
 
 
-   
-    {
-      "key": "csp_XYQHiker_虎牙直播",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/虎牙直播.json",
-      "jar":"./jar/aoki.jar;md5;c253e1930a210fa5141e5418f1f90949"},
 
-    {
-      "key": "csp_XYQHiker_斗鱼直播",
-      "name": "🐠斗鱼┃直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/斗鱼直播.json",
-      "jar":"./jar/aoki.jar"},
  
     {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"csp_Bili","searchable":1, "quickSearch":1}
