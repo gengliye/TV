@@ -35,6 +35,14 @@
       "url": "http://pandown.pro/tvbox/tvbox.json",
       "name": "待分析线路"
     },
+    {
+      "url": "http://rihou.cc:88/荷城茶秀",
+      "name": "荷城茶秀"
+    },
+    {
+      "url": "http://meowtv.cn/tv",
+      "name": "猫影视"
+    },    
 
     {
       "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
