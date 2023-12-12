@@ -3,11 +3,11 @@
    
     {
       "url": "https://jihulab.com/gly/tv/-/raw/main/0723.json",
-      "name": "😸自建线路"
+      "name": "😸自建线路0723"
     },
     {
       "url": "https://jihulab.com/gly/tv/-/raw/main/0726.json",
-      "name": "😸自建线路"
+      "name": "😸自建线路0726"
     },
     {
       "url": "http://52bsj.vip:98/wuai",
