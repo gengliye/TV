@@ -5,7 +5,10 @@
       "url": "https://jihulab.com/gly/tv/-/raw/main/0723.json",
       "name": "😸自建线路"
     },
-  
+    {
+      "url": "https://jihulab.com/gly/tv/-/raw/main/0726.json",
+      "name": "😸自建线路"
+    },
     {
       "url": "http://52bsj.vip:98/wuai",
       "name": "🌹吾爱线路"
