@@ -69,14 +69,6 @@
 	"filterable": 0,
 	"ext": "./lib/dadagui.json"},
 
-  { "key": "hetv_77yy",
-	"name": "💞七七┃影视",
-	"type": 3,
-	"jar": "./lib/heos1.jar",
-	"api": "csp_Kunyu77",
-	"searchable": 1,
-	"quickSearch": 1,
-	"changeable": 1},
 
   {"key": "hwtv_yqks",
 "name": "💞一起┃影视",
@@ -123,7 +115,7 @@
       "name": "🌾┃农民┃影视",
       "type": 3,
       "api": "csp_Nmys",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+      "ext": "./json/nmys.json"
     },
     {
       "key": "csp_DiDuan",
@@ -206,7 +198,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "ext": "https://www.libvio.me/statics/js/home.js",
+      "ext": "./json/libvo.json",
       "jar":"./jar/wuai.jar"
 
     },
