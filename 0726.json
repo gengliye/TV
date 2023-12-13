@@ -98,6 +98,162 @@
   "ext": "./json/bili.json",
   "jar":"./jar/fix1209.jar"},
 
+ {
+      "key": "快帆",
+      "name": "⛵┃快帆┃影视",
+      "type": 1,
+      "api": "https://api.kuaifan.tv/api.php/provide/vod",
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "韩国剧",
+        "日本剧",
+        "欧美剧",
+        "动作片",
+        "动画片",
+        "短片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "古装片",
+        "历史片",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日本动漫"
+      ]
+    },
+    {
+      "key": "益达影视",
+      "name": "🌝┃益达┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
+    },
+    {
+      "key": "七七",
+      "name": "🌈┃七七┃影视",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🌾┃农民┃影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+    },
+    {
+      "key": "csp_DiDuan",
+      "name": "⏮️┃低端┃影视",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "厂长",
+      "name": "🏭┃厂长┃影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "https://cz01.cc/"
+    },
+    {
+      "key": "csp_FanYY",
+      "name": "🧸┃玩偶┃影视",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
+    },
+    {
+      "key": "csp_AppMr",
+      "name": "👻┃明明┃影视",
+      "type": 3,
+      "api": "csp_AppMr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "奇奇",
+      "name": "🐭┃迷迷┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": "2",
+      "ext": "http://www.miniku.cc/xgapp.php/v1/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "爱迪",
+      "name": "💡┃爱迪┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+    {
+      "key": "Kuaikan",
+      "name": "👀┃快看┃影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "飞速",
+      "name": "🚄┃影探┃影视",
+      "type": 3,
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "vip.lyyytv.cn"
+    },
+    {
+      "key": "csp_Lib",
+      "name": "💫┃Lib  ┃影视",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "https://www.libvio.fun/"
+    },
+    {
+      "key": "鸭鸭",
+      "name": "🦆┃鸭鸭┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },  
+
 {"key": "49zy",
 "name": "💞疾风┃1080",
 "type": 1,
