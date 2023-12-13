@@ -124,7 +124,9 @@
         "国产动漫",
         "欧美动漫",
         "日本动漫"
-      ]
+      ],
+      "jar":"./jar/wuai.jar"
+
     },
     {
       "key": "益达影视",
@@ -159,7 +161,8 @@
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "jar":"./jar/wuai.jar"
     },
     {
       "key": "厂长",
@@ -241,7 +244,9 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "ext": "https://www.libvio.fun/"
+      "ext": "https://www.libvio.fun/",
+      "jar":"./jar/wuai.jar"
+
     },
     {
       "key": "鸭鸭",
