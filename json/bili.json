@@ -27,11 +27,11 @@
         },        
         {
             "type_name": "武术",
-            "type_id": "武术"
+            "type_id": "武术教学"
         },        
        {
             "type_name": "舞蹈",
-            "type_id": "舞蹈"
+            "type_id": "舞蹈教学"
         },                
         {
             "type_name": "说案",
