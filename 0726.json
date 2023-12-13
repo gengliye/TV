@@ -170,15 +170,7 @@
       "playerType": 2,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
-    {
-      "key": "Kuaikan",
-      "name": "👀┃快看┃影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "飞速",
       "name": "🚄┃影探┃影视",
@@ -189,19 +181,7 @@
       "filterable": 1,
       "ext": "vip.lyyytv.cn"
     },
-    {
-      "key": "csp_Lib",
-      "name": "💫┃Lib  ┃影视",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "./json/libvo.json",
-      "jar":"./jar/wuai.jar"
-
-    },
+  
     {
       "key": "鸭鸭",
       "name": "🦆┃鸭鸭┃影视",
@@ -501,7 +481,15 @@
     },
     
 
-
+{"key": "csp_KungFu404", "name":"🎦阿里设置", "type": 3,  "api": "csp_KungFu404",  "searchable":1,  "filterable": 0,   "changeable":0,  "jar":"./jar/alibaba.jar"},
+{"key":"阿里云盘网","name":"🚛云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/aliyunpan.json"},
+{"key":"纸条","name": "🖥纸条搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./jar/ali.jar"},
+{"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"./jar/ali.jar"},
+{"key":"易搜","name": "🖥易搜","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0,"jar":"./jar/ali.jar"},
+{"key":"盘搜","name": "🖥盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0,"jar":"./jar/ali.jar"},
+{"key":"UP云搜","name": "🖥UP云搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"changeable": 0,"jar":"./jar/ali.jar"},
+{"key":"找资源","name": "🖥找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/0d2c2e38-582a-4f7f-bd10-61f1f025792b/token.txt","jar":"./jar/ali.jar"},
+{"key":"网盘搜索","name": "🖥网盘搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./jar/ali.jar"},
 
     {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1}
 
