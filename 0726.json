@@ -117,17 +117,7 @@
       "api": "csp_Nmys",
       "ext": "./json/nmys.json"
     },
-    {
-      "key": "csp_DiDuan",
-      "name": "⏮️┃低端┃影视",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar":"./jar/wuai.jar"
-    },
- 
+  
     {
       "key": "csp_FanYY",
       "name": "🧸┃玩偶┃影视",
@@ -171,27 +161,9 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
    
-    {
-      "key": "飞速",
-      "name": "🚄┃影探┃影视",
-      "type": 3,
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "vip.lyyytv.cn"
-    },
+ 
   
-    {
-      "key": "鸭鸭",
-      "name": "🦆┃鸭鸭┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },  
+    
     {"key":"t4_wo","name":"🚛玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name": "🚛玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ali.jar"},
 {"key":"天天视频","name":"🚛天天┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/","jar":"./jar/ali.jar"},
