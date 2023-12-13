@@ -98,36 +98,7 @@
   "ext": "./json/bili.json",
   "jar":"./jar/fix1209.jar"},
 
- {
-      "key": "快帆",
-      "name": "⛵┃快帆┃影视",
-      "type": 1,
-      "api": "https://api.kuaifan.tv/api.php/provide/vod",
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "韩国剧",
-        "日本剧",
-        "欧美剧",
-        "动作片",
-        "动画片",
-        "短片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "古装片",
-        "历史片",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日本动漫"
-      ],
-      "jar":"./jar/wuai.jar"
-
-    },
+ 
     {
       "key": "益达影视",
       "name": "🌝┃益达┃影视",
@@ -164,17 +135,7 @@
       "filterable": 0,
       "jar":"./jar/wuai.jar"
     },
-    {
-      "key": "厂长",
-      "name": "🏭┃厂长┃影视",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://cz01.cc/"
-    },
+ 
     {
       "key": "csp_FanYY",
       "name": "🧸┃玩偶┃影视",
@@ -183,7 +144,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/",
+     "jar":"./jar/fan.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"
     },
     {
       "key": "csp_AppMr",
