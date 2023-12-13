@@ -479,10 +479,12 @@
       "filterable": 1,
       "ext": "./js/kugouMV.js"
     },
-    
+{"key":"lzi","name":"🚛量子资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/liangzi.json","jar":"./jar/ysc.jar"},
+{"key":"非凡资源","name":"🚛非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/ffzy.json","jar":"./jar/ysc.jar"},
+{"key":"天天视频","name":"🚛天天┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/",  "jar":"./jar/ysc.jar"},
 
-{"key": "csp_KungFu404", "name":"🎦阿里设置", "type": 3,  "api": "csp_KungFu404",  "searchable":1,  "filterable": 0,   "changeable":0,  "jar":"./jar/alibaba.jar"},
-{"key":"阿里云盘网","name":"🚛云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/aliyunpan.json"},
+{"key": "csp_KungFu404", "name":"🎦阿里设置", "type": 3,  "api": "csp_KungFu404",  "searchable":1,  "filterable": 0,   "changeable":0,"jar":"./jar/alibaba.jar"},
+{"key":"阿里云盘网","name":"🚛云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/aliyunpan.json","jar":"./jar/ysc.jar"},
 {"key":"纸条","name": "🖥纸条搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./jar/ali.jar"},
 {"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"./jar/ali.jar"},
 {"key":"易搜","name": "🖥易搜","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0,"jar":"./jar/ali.jar"},
