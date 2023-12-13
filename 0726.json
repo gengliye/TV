@@ -88,17 +88,8 @@
 "changeable": 1
 },
 
-{
-  "key": "csp_BBB",
-  "name": "🅱哔哩┃合集",
-  "type": 3,
-  "api": "csp_Bili",
-  "searchable": 0,
-  "changeable": 0,
-  "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩合集.json"},
-
 { "key": "NoSearch_csp_BBB",
-  "name": "哔哩哔哩",
+  "name": "🅱哔哩┃合集",
   "type": 3,
   "api": "csp_Bili",
   "searchable": 1,
