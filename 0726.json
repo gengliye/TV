@@ -244,7 +244,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "ext": "https://www.libvio.fun/",
+      "ext": "https://www.libvio.me/statics/js/home.js",
       "jar":"./jar/wuai.jar"
 
     },
