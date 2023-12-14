@@ -109,7 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-  "jar":"./jar/wuai.jar"  
+  "jar":"./jar/fm1204.jar"  
     },
     {
       "key": "csp_Nmys",
@@ -174,8 +174,7 @@
 "api":"csp_AppYsV2",
 "searchable":1,
 "quickSearch":1,
-"filterable":1,"ext":"https://ttsp.live/api.php/app/",
- "jar":"./jar/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
+"filterable":1,"ext":"https://ttsp.live/api.php/app/"
 },
 
 {"key": "49zy",
@@ -262,8 +261,7 @@
       "ext": {
         "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      },
-      "jar":"./jar/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"        
+      }       
     },
     
 {    "key": "腾讯资源",
