@@ -126,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ".tvbox/token.txt$$$https://wogg.xyz/",
+      "ext": "https://wogg.xyz/",
      "jar":"./jar/fan.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"
     },
     {
