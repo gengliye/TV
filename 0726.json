@@ -482,16 +482,16 @@
     {"name": "并发","type": 3, "url": "Demo" },
     {"name": "解析聚合","type": 3,"url": "Web"},
 
-    {"name":"-8090g-","type":3,"url":"https://www.8090g.cn/?url="},
-    {"name":"-冰豆解析-","type":3,"url":"https://bd.jx.cn/?url="},
-    {"name":"-player2-","type":3,"url":"https://jx.playerjy.com/?url="},
-    {"name":"-云解析-","type":3,"url":"https://jx.yparse.com/index.php?url="},
-    {"name":"-麒麟解析-","type":3,"url":"https://jx.quankan.app/?url="},
+    {"name":"-8090g-","type":0,"url":"https://www.8090g.cn/?url="},
+    {"name":"-冰豆解析-","type":0,"url":"https://bd.jx.cn/?url="},
+    {"name":"-player2-","type":0,"url":"https://jx.playerjy.com/?url="},
+    {"name":"-云解析-","type":0,"url":"https://jx.yparse.com/index.php?url="},
+    {"name":"-麒麟解析-","type":0,"url":"https://jx.quankan.app/?url="},
 
-    {"name": "jsonplayer","type": 2,"url": "https://jx.jsonplayer.com/player/?url="},
-    {"name": "虾米解析","type": 2,"url": "https://jx.xmflv.com/?url="},
-    {"name":"-咸鱼解析-","type":2,"url":"https://jx.xyflv.cc/?url="},
-    {"name":"-咸鱼解析2-","type":2,"url":"https://jx.xyflv.top/?url="},
+    {"name": "jsonplayer","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
+    {"name": "虾米解析","type": 0,"url": "https://jx.xmflv.com/?url="},
+    {"name":"-咸鱼解析-","type":0,"url":"https://jx.xyflv.cc/?url="},
+    {"name":"-咸鱼解析2-","type":0,"url":"https://jx.xyflv.top/?url="},
     {
 		"name": "官解1",
 		"type": 1,
@@ -509,7 +509,7 @@
     },
      {
       "name": "神秘哥哥",
-      "type": 3,
+      "type": 1,
       "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
       "ext": {
         "flag": [
@@ -544,7 +544,7 @@
     },
     {
       "name": "免费分享",
-      "type": 3,
+      "type": 1,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
@@ -582,12 +582,12 @@
    
     {
         "name": "精选2",
-        "type": 0, 
+        "type": 1, 
         "url": "https://jx.777jiexi.com/player/?url="
     },
     {
 		"name": "夜魔解析",
-		"type": 3,
+		"type": 1,
 		"url": "https://www.yemu.xyz/?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
