@@ -26,7 +26,7 @@
 "sites":[
 
   { "key": "首页",
-    "name": "豆瓣┃影视",
+    "name": "🎞️豆瓣┃影视",
     "type": 3,
     "api": "csp_Douban",
     "searchable": 0,
@@ -35,7 +35,7 @@
     "jar": "./jar/fm1204.jar;md5;9060b67dfec8782aca6e79ba17c0979b"},
 
   {"key":"儿童拼音", 
-   "name":"🌏曼曼爱学习",  
+   "name":"👧曼曼爱学习",  
    "type":3,   
    "api":"csp_Bili", 
    "searchable":0,"quickSearch":1, 
@@ -43,7 +43,7 @@
    "ext":"./lib/儿童拼音.json" },
 
   { "key":"幼儿启蒙", 
-  "name":"🌏曦曦启蒙",   
+  "name":"👧曦曦启蒙",   
   "type":3,   
   "api":"csp_Bili",   
   "searchable":0,   
@@ -126,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ".tvbox/token.txt$$$https://wogg.xyz/",
+      "ext": "https://wogg.xyz/",
      "jar":"./jar/fan.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"
     },
     {
