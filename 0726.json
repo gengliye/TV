@@ -481,15 +481,17 @@
 "parses": [
     {"name": "并发","type": 3, "url": "Demo" },
     {"name": "解析聚合","type": 3,"url": "Web"},
+    {"name": "Json轮询","type": 2,"url": "Sequence"},
+    {"name": "Json并发","type": 2,"url": "Parallel"},
 
-    {"name":"-8090g-","type":0,"url":"https://www.8090g.cn/?url="},
-    {"name":"-冰豆解析-","type":0,"url":"https://bd.jx.cn/?url="},
-    {"name":"-player2-","type":0,"url":"https://jx.playerjy.com/?url="},
-    {"name":"-云解析-","type":0,"url":"https://jx.yparse.com/index.php?url="},
-    {"name":"-麒麟解析-","type":0,"url":"https://jx.quankan.app/?url="},
+    {"name":"-8090g-","type":1,"url":"https://www.8090g.cn/?url="},
+    {"name":"-冰豆解析-","type":1,"url":"https://bd.jx.cn/?url="},
+    {"name":"-player2-","type":1,"url":"https://jx.playerjy.com/?url="},
+    {"name":"-云解析-","type":1,"url":"https://jx.yparse.com/index.php?url="},
+    {"name":"-麒麟解析-","type":1,"url":"https://jx.quankan.app/?url="},
 
-    {"name": "jsonplayer","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
-    {"name": "虾米解析","type": 0,"url": "https://jx.xmflv.com/?url="},
+    {"name": "jsonplayer","type": 1,"url": "https://jx.jsonplayer.com/player/?url="},
+    {"name": "虾米解析","type": 1,"url": "https://jx.xmflv.com/?url="},
     {"name":"-咸鱼解析-","type":0,"url":"https://jx.xyflv.cc/?url="},
     {"name":"-咸鱼解析2-","type":0,"url":"https://jx.xyflv.top/?url="},
     {
