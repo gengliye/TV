@@ -1,15 +1,22 @@
 {
 	"classes":[
-		{"type_name":"曼曼爱学习","type_id":"学拼音"},
-		{"type_name":"一年级语文","type_id":"一年级语文"},
-		{"type_name":"曼曼娱乐","type_id":"曼曼娱乐"},
-		{"type_name":"跟我学拼音","type_id":"苏教版课程"},
-		{"type_name":"拼音必修课","type_id":"幼小衔接学拼音必修课"},
+		{"type_name":"曼曼爱学习",
+        "type_id":"学拼音"},
+		{"type_name":"一年级语文",
+        "type_id":"一年级语文"},
+		{"type_name":"曼曼娱乐",
+        "type_id":"曼曼娱乐"},
+		{"type_name":"跟我学拼音",
+        "type_id":"苏教版课程"},
+		{"type_name":"拼音必修课",
+        "type_id":"幼小衔接学拼音必修课"},
 
-		{"type_name":"拼音启蒙动画","type_id":"拼音启蒙动画上下册23集"},
-		{"type_name":"练宝宝学习拼音","type_id":"【拼音歌合集】练宝宝学习拼音"}
+		{"type_name":"拼音启蒙动画",
+        "type_id":"拼音启蒙动画上下册23集"},
+		{"type_name":"练宝宝学习拼音",
+        "type_id":"【拼音歌合集】练宝宝学习拼音"}
 		],
-         "filter": {
+    "filter": {
          "学拼音":[
              {
                 "key": "tid",
