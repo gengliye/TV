@@ -3,13 +3,7 @@
 
 
 "lives":[
-   {
-    "name":"redirect",
-       
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qaWh1bGFiLmNvbS9nbHkvdHYvLS9yYXcvbWFpbi9saXZlLnR4dA=="]
-
-
-   },
+ 
     {
       "name": "live",
       "type": 0,
