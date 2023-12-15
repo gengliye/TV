@@ -348,8 +348,8 @@ TVB,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 靖天卡通,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 青春動漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
-動漫秀場,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
-哈哈炫動,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
+
+哈哈炫动,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
 北京IPTV淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 卡酷少兒,http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
 卡酷少兒,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
