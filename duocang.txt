@@ -12,7 +12,7 @@
    
     {
       "url": "https://gitee.com/china_19_0/tv/raw/main/0726.json",
-      "name": "😸自建线路0726"
+      "name": "😸自建线路0726码云"
     },
     {
       "url": "http://52bsj.vip:98/wuai",
