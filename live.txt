@@ -126,6 +126,25 @@ CCTV15音乐,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/
 CCTV16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17农村,http://159.75.85.63:5678/zb.php?id=douyin
 
+CCTV1综合,http://222.175.159.226:808/hls/20231/index.m3u8
+CCTV2财经,http://222.175.159.226:808/hls/20232/index.m3u8
+CCTV3综艺,http://222.175.159.226:808/hls/20233/index.m3u8
+CCTV4国际,http://222.175.159.226:808/hls/20234/index.m3u8
+CCTV5体育,http://222.175.159.226:808/hls/20235/index.m3u8
+CCTV5+赛事,http://222.175.159.226:808/hls/20236/index.m3u8
+CCTV6电影,http://222.175.159.226:808/hls/20237/index.m3u8
+CCTV7国防,http://222.175.159.226:808/hls/20238/index.m3u8
+CCTV8电视,http://222.175.159.226:808/hls/20239/index.m3u8
+CCTV9纪录,http://222.175.159.226:808/hls/202310/index.m3u8
+CCTV10科教,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+CCTV11戏曲,http://222.175.159.226:808/hls/202312/index.m3u8
+CCTV12社会,http://222.175.159.226:808/hls/202313/index.m3u8
+CCTV13新闻,http://222.175.159.226:808/hls/202314/index.m3u8
+CCTV14少儿,http://222.175.159.226:808/hls/202315/index.m3u8
+CCTV15音乐,http://222.175.159.226:808/hls/202316/index.m3u8
+CCTV16奥林,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+CCTV17农村,http://222.175.159.226:808/hls/202318/index.m3u8
+
 
 地方卫视,#genre#
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
