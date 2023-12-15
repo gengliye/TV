@@ -7,7 +7,7 @@
  "channels":
 	[
      {"name":"redirect",
-      "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vY2hpbmFfMTlfMC90di9yYXcvbWFpbi9saXZlLnR4dA=="]
+      "urls":["https://gitee.com/china_19_0/tv/raw/main/live.txt"]
      }	
      
 	]
