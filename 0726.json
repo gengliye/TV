@@ -13,6 +13,14 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {"group":"redirect","channels":
+	[
+     {"name":"redirect",
+      "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qaWh1bGFiLmNvbS9nbHkvdHYvLS9yYXcvbWFpbi9saXZlLnR4dA=="]
+     }	
+
+	]
+},
 {
   "name": "YueChan•综合",
   "type": 0,
