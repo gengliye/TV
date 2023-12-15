@@ -3,16 +3,14 @@
 
 
 "lives":[
-     {
-      "name": "live",
-      "type": 0,
-      "playerType": 1,
-      "url": "http://52bsj.vip:98/wuailive",
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-],
+{"group":"redirect","channels":
+	[
+     {"name":"redirect",
+      "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qaWh1bGFiLmNvbS9nbHkvdHYvLS9yYXcvbWFpbi9saXZlLnR4dA=="]
+     }	
+
+	]
+}],
 
 "sites":[
 
