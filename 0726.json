@@ -9,26 +9,7 @@
 	[
      {"name":"redirect",
       "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qaWh1bGFiLmNvbS9nbHkvdHYvLS9yYXcvbWFpbi9saXZlLnR4dA=="]
-     },	
-        {
-      "name": "live",
-      "type": 0,
-      "url": "https://fanty.run.goorm.site/live.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-  "name": "YueChan•综合",
-  "type": 0,
-  "url": "https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u",
-  "playerType": 1,
-  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "https://epg.112114.xyz/logo/{name}.png"
-}
-	]
-}
+     }
 
 	],
 
