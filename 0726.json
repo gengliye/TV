@@ -7,7 +7,7 @@
  "channels":
 	[
      {"name":"redirect",
-      "urls":["https://gitee.com/china_19_0/tv/raw/main/live.txt"]
+      "urls":"https://gitee.com/china_19_0/tv/raw/main/live.txt"
      }	
      
 	]
