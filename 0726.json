@@ -96,6 +96,18 @@
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei",
      "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" 
     },
+ {
+      "key": "云云",
+      "name": "云云┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu",
+     "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
+    },
 
   {"key": "VIP影视",
    "name": "💞贵宾┃影视",
@@ -207,7 +219,16 @@
       "playerType": 2,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
-   
+ {
+      "key": "Lib",
+      "name": "Lib┃直连",
+      "type": 3,
+      "api": "csp_Lib",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.libvio.pro/static/js/playerconfig.js"
+    },   
  
   
     
