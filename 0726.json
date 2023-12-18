@@ -108,15 +108,6 @@
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu",
      "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
     },
-
-  {"key": "VIP影视",
-   "name": "💞贵宾┃影视",
-   "type": 3,
-   "api": "csp_XPath",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "./lib/VIP影视.json"},
   
   {	"key": "达达龟",
 	"name": "💞疾风┃蓝光",
