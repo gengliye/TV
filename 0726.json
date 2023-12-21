@@ -180,6 +180,17 @@
       "filter": "./jsom/wogg.json"},
      "jar":"./jar/fan.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"
     },
+   {
+      "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥┃已修复断流",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+
     {
       "key": "csp_AppMr",
       "name": "👻┃明明┃影视",
