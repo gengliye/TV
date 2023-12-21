@@ -8,12 +8,9 @@
    {"group": "YueChan•综合",
       "channels": [
         {"name": "YueChan•综合",
-          "urls": [
-            "https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u"
-          ]
-        }
+         "urls":"https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u"}
       ],
-   "type": 1,
+   "type": 0,
    "playerType": 1,
    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
    "logo": "https://epg.112114.eu.org/logo/{name}.png"
