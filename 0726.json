@@ -4,14 +4,15 @@
 
 "lives":[
    
-  {   "name": "live",
-      "type": 0,
-      "url": "https://gitee.com/glytv/tv/raw/main/live.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png" 
+ {"group":"redirect","channels":
+	[
+     {"name":"redirect",
+      "urls":["proxy://do=live&type=txt&ext=https://gitee.com/glytv/tv/raw/main/live.txt"]
+     }	
+ 
+	]
  },
+
 
 {
   "name": "YueChan•综合",
