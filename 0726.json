@@ -4,17 +4,18 @@
 
 "lives":[
    
-
-   {"group": "YueChan•综合",
-      "channels": [
-        {"name": "YueChan•综合",
-         "urls":"https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u"}
-      ],
-   "type": 0,
-   "playerType": 1,
-   "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-   "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    }
+{"group":"redirect",
+    "channels":
+	[
+     {"name":"redirect",
+      "urls":["proxy://do=live&type=txt&ext=https://gitee.com/glytv/tv/raw/main/live.txt"]    
+     }
+	],
+  "type": 0,
+  "playerType": 1,
+  "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo": "https://epg.112114.eu.org/logo/{name}.png"
+   }
  
 	],
 
