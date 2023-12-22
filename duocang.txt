@@ -11,6 +11,13 @@
       "name": "😸自建线路0726码云"
     },
     {
+      "url": "https://gitee.com/glytv/tv/raw/main/lib/fj365.json",
+      "name": "😸放假365"
+    },
+
+    
+
+    {
       "url": "http://52bsj.vip:98/wuai",
       "name": "🌹吾爱线路"
     },
