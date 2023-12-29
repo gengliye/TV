@@ -122,7 +122,162 @@
 {"key":"橘猫影视","name":"橘猫影视(聚)","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"速影","name":"速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
 {"key":"飘花电影","name":"飘花电影(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
+  {
+      "key": "dadiapi.com",
+      "name": "🥰成人【少儿不宜】",
+      "type": 0,
+      "api": "http://dadiapi.com/api.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },   
+      {
+      "key": "bttcj.com",
+      "name": "成人01",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },
+      {
+      "key": "cjmygzy.com",
+      "name": "成人02",
+      "type": 0,
+      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },
+      {
+      "key": "api.sexnguon.com",
+      "name": "成人03",
+      "type": 1,
+      "api": "http://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },
+      {
+      "key": "feifei67.com",
+      "name": "成人04",
+      "type": 1,
+      "api": "http://www.feifei67.com/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },
+      {
+      "key": "api.maozyapi.com",
+      "name": "成人05",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },
+      {
+      "key": "msnii.com",
+      "name": "成人06",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },
+      {
+      "key": "gdlsp.com",
+      "name": "成人07",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+    },
+    {
+      "key": "caiji.huakuiapi.com",
+      "name": "成人08",
+      "type": 1,
+      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },
+      {
+      "key": "kxgav.com",
+      "name": "成人09",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },
+      {
+      "key": "xrbsp.com",
+      "name": "成人10",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },
+      {
+      "key": "pgxdy.com",
+      "name": "成人11",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },
+      {
+      "key": "kkzy.me",
+      "name": "成人12",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33
+      }
+      },
 {"key":"千寻时光","name":"千寻时光(聚)","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"快看客栈","name":"快看客栈(聚)","type":1,"api":"https://www.vp1127.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"网民电影","name":"网民电影(聚)","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","searchable":1,"quickSearch":1},
