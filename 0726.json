@@ -309,7 +309,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "ext":"./json/ffzy.json"
+       "ext":"./json/douban.json"
     },
     {
       "key": "OXS",
