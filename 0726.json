@@ -328,7 +328,7 @@
 {    "key": "腾讯资源",
       "name": "️🐧腾讯",
       "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
+      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
