@@ -66,17 +66,7 @@
       "ext": "",
      "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" 
     },
- {
-      "key": "ffzy",
-      "name": "非凡┃量子",
-      "type": 3,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "playerType": 1,
-      "ext": "./json/ffzy.json",
-     "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" 
-    },
-
-
+ 
 {
       "key": "天天",
       "name": "天天┃App",
@@ -308,6 +298,62 @@
         "日本综艺",
         "新马泰综艺",
         "纪录片"
+      ]
+    },
+     {
+      "key": "量子资源",
+      "name": "量子资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+    {
+      "key": "csp_非凡资源",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
       ]
     },
     {
