@@ -288,7 +288,7 @@
       "name": "BT影院",
       "type": 1,
       "api": "https://www.btyy.cc/api.php/provide/vod/",
-      "filterable": 0,
+      "filterable": 1,
       "categories": [
         "国产剧",
         "香港剧",
@@ -304,16 +304,11 @@
       "key": "csp_非凡资源",
       "name": "非凡量子",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-    "ext": {
-    "分类url":"https://cj.lziapi.com/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20;;!",
-    
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#体育$36#电影解说$35"
-      }       
+      "filterable": 1       
     },
     {
       "key": "OXS",
