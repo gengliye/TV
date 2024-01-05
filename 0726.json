@@ -321,7 +321,8 @@
       "ext": {
         "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$20"
-      }       
+      },
+      "jar":"./jar/fan.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"        
     },
     
     { "key": "腾讯资源",
