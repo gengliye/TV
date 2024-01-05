@@ -287,7 +287,7 @@
       "key": "BT资源",
       "name": "BT影院",
       "type": 1,
-      "api": "https://www.btyy.cc/api.php/provide/vod/?ac=list",
+      "api": "https://www.btyy.cc/?ac=list",
       "filterable": 1,
       "categories": [
         "国产剧",
@@ -320,12 +320,12 @@
       "filterable": 1,
       "ext": {
         "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$20"
       }       
     },
     
     { "key": "腾讯资源",
-      "name": "️🐧腾讯",
+      "name": "️🐧废物影视",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -409,34 +409,6 @@
         "欧美综艺"
       ]
     },   
- {
-      "key": "drpy_js_优酷1",
-      "name": "🐇优酷(官)",
-      "type": 3,
-      "api": "https://pan.shangui.cc/f/YKEKFy/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/Nqxkcj/youku.js"
-    },
-    {
-      "key": "搜狗2",
-      "name": "🐕搜狗(官)",
-      "type": 3,
-      "api": "https://pan.shangui.cc/f/YKEKFy/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/p71qSL/caigou.js"
-    },
-    {
-      "key": "腾讯2",
-      "name": "🐧腾讯(官)",
-      "type": 3,
-      "api": "https://pan.shangui.cc/f/YKEKFy/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/PQXxIK/tengxun.js"
-    },
-    {
-      "key": "芒果",
-      "name": "🍋芒果(官)",
-      "type": 3,
-      "api": "https://pan.shangui.cc/f/YKEKFy/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/6wMGcp/mangguo.js"
-    },
   
   
     {
