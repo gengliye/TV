@@ -287,7 +287,7 @@
       "key": "BT资源",
       "name": "BT影院",
       "type": 1,
-      "api": "https://www.btyy.cc/api.php/provide/vod/",
+      "api": "https://www.btyy.cc/api.php/provide/vod/?ac=list",
       "filterable": 1,
       "categories": [
         "国产剧",
@@ -308,8 +308,7 @@
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-  "jar":"./jar/ysc.jar"  
+      "filterable": 1
     },
     {
       "key": "OXS",
@@ -325,17 +324,14 @@
       }       
     },
     
-{    "key": "腾讯资源",
+    { "key": "腾讯资源",
       "name": "️🐧腾讯",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片",
-        "惊悚片","剧情片","冒险片","记录片","综艺","动漫"
-      ]
+      "filterable": 1
+ 
     },
 
 
@@ -351,37 +347,6 @@
       "categories": [
         "国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片",
         "恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"
-      ]
-    },
-    {
-      "key": "搜狐资源",
-      "name": "️🐿搜狐",
-      "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "综艺",
-        "动漫"
       ]
     },
  
@@ -473,20 +438,7 @@
       "ext": "https://pan.shangui.cc/f/6wMGcp/mangguo.js"
     },
   
-    {
-      "key": "百度资源",
-      "name": "💯百度(官)",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "大陆剧",
-        "战争片",
-        "动作片",
-        "喜剧片"
-      ]
-    },
+  
     {
       "key": "360影视",
       "name": "❇️360(官)",
@@ -495,15 +447,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0
+      "changeable": 0,
+       "jar":"./jar/Aoki.jar"
     },
-    {
-      "key": "爱奇异",
-      "name": "🥝爱奇艺(官)",
-      "type": 3,
-      "api": "https://pan.shangui.cc/f/YKEKFy/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/w7xqIg/aiqiyi.js"
-    },
+ 
     {
       "key": "csp_Yj1211",
       "name": "📽️聚合┃直播",
