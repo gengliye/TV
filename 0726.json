@@ -310,8 +310,9 @@
       "quickSearch": 1,
       "filterable": 1,
     "ext": {
-        "分类url": "https://cj.lziapi.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+    "分类url":"https://cj.lziapi.com/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20;;!",
+    
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#体育$36#电影解说$35"
       }       
     },
     {
