@@ -310,6 +310,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
+     {"key": "种子短剧",
+      "name": "💮┃公众号：吾爱电视┃短剧",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "OXS",
       "name": "🚆O先生影视",
@@ -322,7 +330,7 @@
         "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$20"
       },
-      "jar":"./jar/fan.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"        
+      "jar":"./jar/fty1204.jar"        
     },
     
     { "key": "腾讯资源",
