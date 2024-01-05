@@ -66,6 +66,16 @@
       "ext": "",
      "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" 
     },
+ {
+      "key": "ffzy",
+      "name": "非凡┃量子",
+      "type": 3,
+      "api": "csp_ffzy",
+      "playerType": 1,
+      "ext": "./json/ffzy.json",
+     "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" 
+    },
+
 
 {
       "key": "天天",
