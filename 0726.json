@@ -304,11 +304,12 @@
       "key": "csp_非凡资源",
       "name": "非凡量子",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1  
+      "filterable": 1,
+      "ext":"./json/ffzy.json"  
     },
     {
       "key": "OXS",
