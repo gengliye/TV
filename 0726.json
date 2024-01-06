@@ -287,7 +287,7 @@
       "key": "BT资源",
       "name": "BT影院",
       "type": 1,
-      "api": "https://www.btyy.cc/?ac=list",
+      "api": "https://www.btyy.cc/",
       "filterable": 1,
       "categories": [
         "国产剧",
@@ -305,7 +305,7 @@
       "name": "非凡量子",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "playUrl": "https://lziplayer.com/?url=",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
