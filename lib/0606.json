@@ -7763,5 +7763,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar"
+  "spider": "./jar/custom_spider.jar"
 }
