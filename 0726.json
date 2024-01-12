@@ -283,6 +283,7 @@
         "欧美剧",        "泰国剧",        "日本动漫",        "综艺频道",        "大陆综艺",        "港台综艺",
         "日本综艺",        "新马泰综艺",        "纪录片"      ]
     },
+    {"key":"艾旦影视","name":"艾旦影视(聚)","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
      {
       "key": "BT资源",
       "name": "BT影院",
