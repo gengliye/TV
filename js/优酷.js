@@ -7,4 +7,6 @@ var rule = {
     quickSearch:0,
     filterable:1,
     multi:1,
+    url:'/category/data?optionRefresh=1&pageNo=fypage&params=fyfilter',
+    filter_url:'{{fl}}',
 }
