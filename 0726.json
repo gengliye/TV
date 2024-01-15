@@ -410,7 +410,7 @@
       "api": "https://tvbox-1-g5221611.deta.app/vod/sohu",
       "searchable": 1,
       "quickSearch": 1,
-      "playUrl": "https://api.huohua.vip/api/?url="
+      "playUrl": "parse:官解3"
     },
   
     
