@@ -213,8 +213,6 @@
      "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" 
     },   
  
-  
-    
 {"key":"t4_wo","name":"🚛玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name": "🚛玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ali.jar"},
 
@@ -346,21 +344,6 @@
     },
 
 
-
-    {
-      "key": "优酷资源",
-      "name": "️🐇优酷",
-      "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片",
-        "恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"
-      ]
-    },
- 
     {
       "key": "新浪资源",
       "name": "🌊新浪",
@@ -420,7 +403,17 @@
         "欧美综艺"
       ]
     },   
+    {
+      "key": "sohu",
+      "name": "搜狐(官)",
+      "type": 1,
+      "api": "https://tvbox-1-g5221611.deta.app/vod/sohu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playUrl": ""
+    },
   
+    
   
     {
       "key": "360影视",
@@ -436,7 +429,14 @@
  {"key":"csp_QQ" ,"name":"🐧腾讯QQ","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/0928.jar"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/0925.jar"},
 {"key":"csp_MGTV","name":"🍋芒果Tv","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/0925.jar"},
-{"key":"youku","name":"👑优酷","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
+  {
+      "key": "drpy_js_优酷",
+      "name": "👑优酷",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/优酷.js"
+    },
+
 {"key":"PpTV"              ,"name":"📺PPTV","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"]},
 
     {
