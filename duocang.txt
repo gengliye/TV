@@ -13,13 +13,7 @@
       "url": "https://gitee.com/china_19_0/tv/raw/main/0726.json",
       "name": "😸自建线路0726码云"
     },
-    {
-      "url": "https://gitee.com/glytv/tv/raw/main/lib/fj365.json",
-      "name": "😸放假365"
-    },
-
-    
-
+   
     {
       "url": "http://52bsj.vip:98/wuai",
       "name": "🌹吾爱线路"
@@ -37,9 +31,13 @@
       "url": "https://tvbox.cainisi.cf",
       "name": "❀菜妮斯"
     },
+  {
+      "url": "https://gitee.com/glytv/tv/raw/main/lib/fj365.json",
+      "name": "😸待分析线路1"
+    },
     {
       "url": "http://pandown.pro/tvbox/tvbox.json",
-      "name": "待分析线路"
+      "name": "待分析线路2"
     },
     {
       "url": "http://rihou.cc:88/荷城茶秀",
