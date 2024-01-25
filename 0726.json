@@ -366,8 +366,8 @@
  
     },
      
-    { "key": "🐶闪电资源",
-      "name": "️🦆1080资源库",
+    { "key": "闪电资源",
+      "name": "️🐶闪电资源",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
