@@ -336,7 +336,7 @@
     { "key": "TVB云播",
       "name": "️🧳TVB云播",
       "type": 1,
-      "api": "http://www.tvyb02.com/api.php/provide/vod/",
+      "api": "http://www.tvyb10.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
