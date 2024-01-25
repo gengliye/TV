@@ -358,36 +358,7 @@
     },
 
    
-    { "key": "1080资源库",
-      "name": "️🦆1080资源库",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/api_mac10_all.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
- 
-    },
-     
-    { "key": "闪电资源",
-      "name": "️🐶闪电资源",
-      "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
- 
-    },
    
-    { "key": "无尽资源",
-      "name": "️🦔无尽资源",
-      "type": 1,
-      "api": "https://api.wujinapi.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
- 
-    },
-
     {
       "key": "新浪资源",
       "name": "🌊新浪",
