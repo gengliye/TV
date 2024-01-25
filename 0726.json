@@ -213,7 +213,9 @@
      "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" 
     },   
  
-{"key":"t4_wo","name":"🚛玩偶┃T4","type":4,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG",
+ "searchable":1,"quickSearch":1,"changeable":0,
+ "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"./jar/fty.jar"},
 {"key":"csp_WoGG","name": "🚛玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ali.jar"},
 
 {"key":"天天视频",
