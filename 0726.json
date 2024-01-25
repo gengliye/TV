@@ -333,16 +333,36 @@
       "jar":"./jar/HeChengChaXiu.jar"        
     },
     
-    { "key": "腾讯资源",
-      "name": "️🐧废物影视",
+    { "key": "TVB云播",
+      "name": "️🧳TVB云播",
       "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/",
+      "api": "http://www.tvyb02.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
  
     },
 
+   
+    { "key": "1080资源库",
+      "name": "️🦆1080资源库",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/api_mac10_all.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+ 
+    },
+   
+    { "key": "无尽资源",
+      "name": "️🦔无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+ 
+    },
 
     {
       "key": "新浪资源",
