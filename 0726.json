@@ -354,6 +354,16 @@
       "filterable": 1
  
     },
+     
+    { "key": "🐶闪电资源",
+      "name": "️🦆1080资源库",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+ 
+    },
    
     { "key": "无尽资源",
       "name": "️🦔无尽资源",
