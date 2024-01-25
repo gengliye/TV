@@ -300,8 +300,8 @@
       ]
     },
     {
-      "key": "csp_非凡资源",
-      "name": "非凡量子",
+      "key": "csp_量子资源",
+      "name": "🤖量子资源",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "playUrl": "https://lziplayer.com/?url=",
@@ -309,8 +309,19 @@
       "quickSearch": 1,
       "filterable": 1
     },
+        {
+      "key": "csp_非凡资源",
+      "name": "🤖非凡资源",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://ffzyplayer.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
      {"key": "种子短剧",
-      "name": "💮┃公众号：吾爱电视┃短剧",
+      "name": "💮吾爱短剧",
       "type": 1,
       "api": "http://zzdj.cc/api.php/provide/vod",
       "searchable": 1,
