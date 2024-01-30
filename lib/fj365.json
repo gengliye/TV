@@ -120,7 +120,7 @@
 {"key":"嗨哆咪影视","name":"嗨哆咪影视(聚)","type":1,"api":"http://hdmys1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"橘猫影视","name":"橘猫影视(聚)","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"速影","name":"速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
-{"key":"飘花电影","name":"飘花电影(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"飘花电影","name":"飘花电影(聚)","type":1,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1},
 
 { "key": "dadiapi.com","name": "🥰成人【少儿不宜】","type": 0,"api": "http://dadiapi.com/api.php","searchable": 1,"recordable": 0,"style": {"type": "rect","ratio": 1.33}},   
       {
