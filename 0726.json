@@ -4,13 +4,15 @@
 
 "lives":[
    
- {"group":"redirect","channels":
+ {"group":"redirect",
+   "channels":
 	[
      {"name":"redirect",
       "urls":["proxy://do=live&type=txt&ext=https://gitee.com/glytv/tv/raw/main/live.txt"]
-     }	
- 
-	]
+     }
+	],
+    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+    "logo": "https://epg.112114.eu.org/logo/{name}.png"
  },
 
 
