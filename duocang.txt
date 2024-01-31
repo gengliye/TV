@@ -28,6 +28,10 @@
       "name": "☁️青木"
     },
      {
+      "url": "https://wds.ecsxs.com/230989.json",
+      "name": "☁️春盈天下"
+    },
+     {
       "url": "https://tvbox.cainisi.cf",
       "name": "❀菜妮斯"
     },
