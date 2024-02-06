@@ -151,8 +151,8 @@ CCTV14少儿,http://1278.hsmedia.top:8080/newlive/live/hls/14/live.m3u8
 CCTV14少儿,http://1639.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
 CCTV15音乐,http://1304.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
 CCTV16奥林,http://1304.hsmedia.top:8080/newlive/live/hls/17/live.m3u8
-CCTV17农业,http://113.57.150.190:9000/tsfile/live/0019_1.m3u8
-CCTV17农业,http://1304.hsmedia.top:8080/newlive/live/hls/18/live.m3u8
+CCTV17农村,http://113.57.150.190:9000/tsfile/live/0019_1.m3u8
+CCTV17农村,http://1304.hsmedia.top:8080/newlive/live/hls/18/live.m3u8
 
 
 
