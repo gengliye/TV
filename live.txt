@@ -16,7 +16,7 @@ CCTV7军事,http://124.115.205.101:8888/newlive/live/hls/9/live.m3u8
 CCTV8电视,http://124.115.205.101:8888/newlive/live/hls/10/live.m3u8
 CCTV8电视,http://120.224.23.34:9901/tsfile/live/0008_1.m3u8
 CCTV9纪录,http://120.224.23.34:9901/tsfile/live/0009_1.m3u8
-CCTV9记录,http://124.115.205.101:8888/newlive/live/hls/11/live.m3u8
+CCTV9纪录,http://124.115.205.101:8888/newlive/live/hls/11/live.m3u8
 CCTV10科教,http://124.115.205.101:8888/newlive/live/hls/12/live.m3u8
 CCTV11戏曲,http://124.115.205.101:8888/newlive/live/hls/13/live.m3u8
 CCTV11戏曲,http://120.224.23.34:9901/tsfile/live/0011_1.m3u8
