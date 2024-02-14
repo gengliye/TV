@@ -15,29 +15,29 @@
     },
    
     {
-      "url": "http://52bsj.vip:98/wuai",
+      "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
       "name": "🌹吾爱线路"
     },
     {
-      "url": "http://9xi4o.tk/0725.json",
-      "name": "🎬4K线路"
+      "url": "https://szyyds.cn/tv/x.json",
+      "name": "🎬小马线路"
     },
   
     {
-      "url": "https://aoki.fun/青木",
-      "name": "☁️青木"
+      "url": "http://www.饭太硬.top/tv/",
+      "name": "💎饭太硬"
     },
      {
       "url": "https://wds.ecsxs.com/230989.json",
       "name": "☁️春盈天下"
     },
      {
-      "url": "https://tvbox.cainisi.cf",
+      "url": "https://tvbox.cainisi.cf",https://szyyds.cn/tv/x.json
       "name": "❀菜妮斯"
     },
   {
-      "url": "https://gitee.com/glytv/tv/raw/main/lib/fj365.json",
-      "name": "😸待分析线路1"
+      "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
+      "name": "😸OK吊炸天"
     },
     {
       "url": "http://pandown.pro/tvbox/tvbox.json",
@@ -49,7 +49,7 @@
     },
     {
       "url": "http://meowtv.cn/tv",
-      "name": "猫影视"
+      "name": "喵影视"
     },    
 
     {
