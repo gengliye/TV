@@ -32,7 +32,7 @@
       "name": "☁️春盈天下"
     },
      {
-      "url": "https://tvbox.cainisi.cf",https://szyyds.cn/tv/x.json
+      "url": "https://tvbox.cainisi.cf",https://szyyds.cn/tv/x.json,
       "name": "❀菜妮斯"
     },
   {
