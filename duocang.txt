@@ -15,7 +15,7 @@
     },
    
     {
-      "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+      "url": "http://52pan.top:81/api/v3/file/get/174964/吾爱评测.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0&i=1",
       "name": "🌹吾爱线路"
     },
     {
@@ -25,7 +25,7 @@
   
     {
       "url": "http://www.饭太硬.top/tv/",
-      "name": "💎饭太硬"
+      "name": "🦄饭太硬"
     },
      {
       "url": "https://wds.ecsxs.com/230989.json",
