@@ -22,10 +22,7 @@
       "url": "https://szyyds.cn/tv/x.json",
       "name": "🎬小马线路"
     },
-   {
-      "url": "http://饭太硬.top/tv",
-      "name": "☁️饭太硬"
-    },
+
      {
       "url": "https://wds.ecsxs.com/230989.json",
       "name": "☁️春盈天下"
