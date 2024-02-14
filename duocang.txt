@@ -24,7 +24,7 @@
     },
    {
       "url": "http://www.饭太硬.top/tv/",
-      "name": "💎饭太硬"
+      "name": "☁️饭太硬"
     },
      {
       "url": "https://wds.ecsxs.com/230989.json",
