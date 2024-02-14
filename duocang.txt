@@ -22,6 +22,18 @@
       "url": "https://szyyds.cn/tv/x.json",
       "name": "🎬小马线路"
     },
+   {
+      "url": "http://www.饭太硬.top/tv/",
+      "name": "💎饭太硬"
+    },
+     {
+      "url": "https://wds.ecsxs.com/230989.json",
+      "name": "☁️春盈天下"
+    },
+     {
+      "url": "https://tvbox.cainisi.cf",https://szyyds.cn/tv/x.json,
+      "name": "❀菜妮斯"
+    },
 
     {
       "url": "http://pandown.pro/tvbox/tvbox.json",
