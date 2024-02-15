@@ -2,14 +2,6 @@
   "urls": [
    
     {
-      "url": "https://jihulab.com/gly/tv/-/raw/main/0723.json",
-      "name": "😸自建线路0723极狐"
-    },
-   {
-      "url": "https://gitee.com/china_19_0/tv/raw/main/0723.json",
-      "name": "😸自建线路0723码云"
-    },
-    {
       "url": "https://gitee.com/china_19_0/tv/raw/main/0726.json",
       "name": "😸自建线路0726码云"
     },
@@ -29,28 +21,28 @@
     },
      {
       "url": "https://wds.ecsxs.com/230989.json",
-      "name": "☁️春盈天下"
+      "name": "🏮春盈天下"
     },
      {
       "url": "https://tvbox.cainisi.cf",
-      "name": "❀菜妮斯"
+      "name": "🧬菜妮斯"
     },
   {
       "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
-      "name": "😸OK吊炸天"
+      "name": "🐾OK吊炸天"
     },
 
     {
       "url": "http://pandown.pro/tvbox/tvbox.json",
-      "name": "待分析线路2"
+      "name": "🐻‍❄️待分析2"
     },
     {
       "url": "http://rihou.cc:88/荷城茶秀",
-      "name": "荷城茶秀"
+      "name": "⚜️荷城茶秀"
     },
     {
       "url": "http://meowtv.cn/tv",
-      "name": "喵影视"
+      "name": "🐱喵影视"
     },    
 
     {
