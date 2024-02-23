@@ -206,6 +206,10 @@ CCTV14少儿,http://120.0.27.191:18888/rtp/239.253.92.198:6063
 河南卫视,http://101.71.176.182:8888/newlive/live/hls/33/live.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 
+湖北卫视,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.128:5146
+深圳卫视,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.130:5146
+广东卫视,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.166:5146
+
 
 少儿频道,#genre#
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
@@ -222,14 +226,22 @@ CCTV14少儿,http://120.0.27.191:18888/rtp/239.253.92.198:6063
 猪猪侠•英雄猪少年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 
 其它,#genre#
-129号[1920*1080],http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.128:5146
-131号[1920*1080],http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.130:5146
-167号[1920*1080],http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.166:5146
-175号[3840*2160],http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.174:5146
-178号[1920*1080],http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.177:5146
-195号[3840*2160],http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.194:5146
-246号[3840*2160],http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.245:5146
+
 欢笑剧场4K,http://110.253.142.191:8888/rtp/239.253.93.223:6401
 欢笑剧场4K,http://120.0.27.191:18888/rtp/239.253.93.223:6401
 百姓健康,https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
+凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+
+TVB,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+CGTN-英语新闻,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN-英语新闻,http://live.cgtn.com/500/prog_index.m3u8
+CGTN-俄罗斯语国际,http://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN-西班牙语国际,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN Español,http://livees.cgtn.com/500e/prog_index.m3u8
+CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
+CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
+中央新影_老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?
+大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
