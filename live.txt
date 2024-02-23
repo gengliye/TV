@@ -196,6 +196,14 @@ CCTV14少儿,http://120.0.27.191:18888/rtp/239.253.92.198:6063
 百姓健康,https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 
+河南卫视,http://171.8.245.39:808/hls/16/index.m3u8
+河南卫视,http://36.96.38.246:8888/newlive/live/hls/33/live.m3u8
+河南卫视,http://125.210.152.19:9123/live/hzgq-henanwsgq-h264.m3u8
+河南卫视,http://111.207.22.10:8888/newlive/live/hls/33/live.m3u8
+河南卫视,http://101.71.176.182:8888/newlive/live/hls/33/live.m3u8
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+
+
 少儿频道,#genre#
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
