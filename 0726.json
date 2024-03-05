@@ -320,6 +320,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+        {
+      "key": "csp_豪华资源",
+      "name": "🤖豪华资源",
+      "type": 1,
+      "api": " https://hhzyapi.com/api.php/provide/vod",
+      "playUrl": "https://hhjiexi.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
      {"key": "种子短剧",
       "name": "💮吾爱短剧",
