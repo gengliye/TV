@@ -7,7 +7,6 @@ CCTV3综艺,http://1304.hsmedia.top:8080/newlive/live/hls/4/live.m3u8
 CCTV3综艺,http://124.115.205.101:8888/newlive/live/hls/4/live.m3u8
 CCTV4国际,http://124.115.205.101:8888/newlive/live/hls/5/live.m3u8
 CCTV5+赛事,http://1278.hsmedia.top:8080/newlive/live/hls/5/live.m3u8
-
 CCTV5体育,http://124.115.205.101:8888/newlive/live/hls/6/live.m3u8
 CCTV6电影,http://124.115.205.101:8888/newlive/live/hls/8/live.m3u8
 CCTV7军事,http://1278.hsmedia.top:8080/newlive/live/hls/7/live.m3u8
@@ -29,11 +28,8 @@ CCTV17农村,http://113.57.150.190:9000/tsfile/live/0019_1.m3u8
 
 CCTV7军事,http://124.115.205.101:8888/newlive/live/hls/9/live.m3u8
 CCTV8电视,http://124.115.205.101:8888/newlive/live/hls/10/live.m3u8
-
-
 CCTV13新闻,http://124.115.205.101:8888/newlive/live/hls/15/live.m3u8
 CCTV14少儿,http://124.115.205.101:8888/newlive/live/hls/16/live.m3u8
-
 CCTV1综合,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/ldcctv1_600000.m3u8
 CCTV4国际,http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
 CCTV5+赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
