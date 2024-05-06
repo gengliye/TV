@@ -427,6 +427,19 @@
       "filterable": 1,
       "jar":"./jar/Aoki.jar;md5;c253e1930a210fa5141e5418f1f90949"
     },
+
+    {
+    "key": "py_cctv",
+    "name": "❤️爱央视",
+    "type": 3,
+    "api": "py_cctv",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "./py/aiysTV.py",
+    "jar":"./jar/yimu.jar;"
+  },
+
     {
       "key": "js_酷狗MV",
       "name": "🎻酷狗┃MV",
