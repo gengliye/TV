@@ -480,6 +480,89 @@
       "ext": {"aliToken": "tvfan/token.txt","from": "4k|auto|fhd"}
     },
 
+ {
+      "key": "csp_LiteApple",
+      "name": "🍎小 苹 果〔SP〕",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%B0%8F%E8%8B%B9%E6%9E%9C.txt"
+    },
+    {
+      "key": "厂长影视",
+      "name": "️🕵厂长换播放器〔SP〕",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "8ee655f702d0d21f3643504783babbc3",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%8E%82%E9%95%BF.jar"
+    },
+    {
+      "key": "csp_Xinsj",
+      "name": "🐼新视觉〔SP〕",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%96%B0%E8%A7%86%E8%A7%89.jar"
+    },
+    {
+      "key": "csp_xBPQ_爱看影视",
+      "name": "💖爱看影视〔SP〕",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/爱看.json"
+    },
+    {
+      "key": "Lgyy",
+      "name": " 📽 蓝光〔SP〕",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "b2e573ff040fcd54b50475660ee1a7d1",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89.jar"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "✌两个BT〔SP〕",
+      "type": 3,
+      "api": "csp_Bttoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mtv_pc_追剧达人",
+      "name": "🌲图图影视〔SP〕",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "110c922de7d69804467fb83d3bb664b5",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9B%BE%E5%9B%BE.jar"
+    },
+    {
+      "key" : "drpy_js_348电影",
+      "name" : "📹348电影〔SP〕",
+      "type" : 3,
+      "api" : "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/js依赖/drpy.min.js",
+      "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/推荐包jar/348电影网.js"
+    },
+
+
+
+
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],
