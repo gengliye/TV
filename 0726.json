@@ -539,7 +539,8 @@
       "api": "csp_Bttoo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+       "jar": "./jar/yimu.jar;"
     },
     {
       "key": "mtv_pc_追剧达人",
