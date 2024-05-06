@@ -14,7 +14,10 @@
       "url": "https://szyyds.cn/tv/x.json",
       "name": "🎬小马线路"
     },
-
+ {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+     "name": "🎬一木自用"
+    },
     {
       "url": "http://www.饭太硬.top/tv/",
       "name": "💎饭太硬"
