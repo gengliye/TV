@@ -10,17 +10,7 @@
    "pass": true, 
    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
    "logo": "https://epg.112114.eu.org/logo/{name}.png"
- },
-
-
-{
-  "name": "YueChan•综合",
-  "type": 0,
-  "url": "https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u",
-  "playerType": 1,
-  "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo": "https://epg.112114.eu.org/logo/{name}.png"
-}
+ }
 	],
 
 
@@ -124,7 +114,7 @@
     },   
     {
       "key": "sohu",
-      "name": "搜狐(官)",
+      "name": "搜狐（受损）",
       "type": 1,
       "api": "https://tvbox-1-g5221611.deta.app/vod/sohu",
       "searchable": 1,
@@ -140,7 +130,7 @@
  {"key":"csp_QQ" ,"name":"🐧腾讯QQ","type":3,"api": "./js/drpy2.min.js","ext": "./js/tengxun.js","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/0925.jar"},
  {"key":"csp_MGTV","name":"🍋芒果Tv","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/0925.jar"},
- {"key":"drpy_js_优酷","name":"🏓优酷解析","type":3,"api":"./JS/drpy2.min.js","ext":"./js/优酷.js","jar":"./jar/0925.jar"},
+ {"key":"drpy_js_优酷","name":"🏓优酷解析（受损）","type":3,"api":"./JS/drpy2.min.js","ext":"./js/优酷.js","jar":"./jar/0925.jar"},
 
 
 
@@ -167,39 +157,7 @@
       "ext": "http://op.ysdqjs.cn",
      "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" 
     },
-     {
-      "key": "蝴蝶",
-      "name": "蝴蝶┃App",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b",
-     "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" 
-    },
- {
-      "key": "侠客",
-      "name": "侠客┃App",
-      "type": 3,
-      "api": "csp_qiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei",
-     "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" 
-    },
- {
-      "key": "云云",
-      "name": "云云┃App",
-      "type": 3,
-      "api": "csp_qiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu",
-     "jar":" ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
-    },
+    
   
   {	"key": "达达龟",
 	"name": "💞疾风┃蓝光",
@@ -213,7 +171,7 @@
 
   {"key": "hwtv_yqks",
 "name": "💞一起┃影视",
-"jar": "./lib/heos1.jar",
+"jar": " ./jar/fix1209.jar",
 "type": 3,
 "api": "csp_YQKan",
 "searchable": 1,
@@ -234,7 +192,7 @@
  
     {
       "key": "益达影视",
-      "name": "🌝┃益达┃影视",
+      "name": "🌝┃益达┃（受损）",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -310,7 +268,7 @@
 {"key":"csp_WoGG","name": "🚛玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ali.jar"},
 
 {"key":"天天视频",
-"name":"🚛天天┃4K",
+"name":"🚛天天┃（受损）",
 "type":3,
 "api":"csp_AppYsV2",
 "searchable":1,
@@ -377,7 +335,7 @@
     
      {
       "key": "BT资源",
-      "name": "BT影院",
+      "name": "BT影院(受损)",
       "type": 1,
       "api": "https://www.btyy.cc/",
       "filterable": 1,
@@ -458,9 +416,7 @@
  
     },
 
-   
-   
-    
+  
     {
       "key": "csp_Yj1211",
       "name": "📽️聚合┃直播",
@@ -510,8 +466,6 @@
 "key": "PanSearch","name": "🙀盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"./jar/fan.txt",
       "ext": {"aliToken": "tvfan/token.txt","from": "4k|auto|fhd"}
     },
-
-
 
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1}
 
