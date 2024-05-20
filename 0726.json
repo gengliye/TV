@@ -315,7 +315,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+             "jar":"./jar/fan.txt",
+           "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
         },
         {
             "key": "萌米",
@@ -324,6 +325,7 @@
             "api": "csp_AppTT",
             "timeout": 15,
             "playerType": 1,
+             "jar":"./jar/fan.txt",           
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
@@ -368,6 +370,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+              "jar":"./jar/fan.txt",
             "ext": "https://www.maolvys.com/"
         },
         {
@@ -375,13 +378,14 @@
             "name": "🍄比特┃秒播",
             "type": 3,
             "api": "csp_Bttwoo",
+            "jar":"./jar/fan.txt",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
         },
   
         {
-            "key": "Lib",
+            "key": "Libvio",
             "name": "🌟立播┃不卡",
             "type": 3,
             "api": "csp_Libvio",
@@ -389,6 +393,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+             "jar":"./jar/fan.txt",           
             "ext": "https://www.libvio.pw/"
         },
         {
@@ -400,6 +405,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "jar":"./jar/fan.txt",
             "ext": "https://auete.pro/"
         },
         {
@@ -410,6 +416,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
+            "jar":"./jar/fan.txt",
             "ext": "http://www.xb6v.com/"
         },
 {"key": "49zy",
