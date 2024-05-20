@@ -44,30 +44,9 @@
   "filterable":1,
   "ext":"./lib/幼儿启蒙.json"},      
 
-  {
-      "key": "新浪资源",
-      "name": "🌊新浪",
-      "type": 1,
-      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playUrl": "",
-      "categories": [
-        "大陆剧",
-        "动作片",
-        "动漫",
-        "综艺"
-      ]
-    },
-    {
-      "key": "csp_xml_百度",
-      "name": "⚜️百度",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": "https://jx.jxbdzyw.com/m3u8/?url=",
+
+    {"key": "csp_xml_百度","name": "⚜️百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "https://jx.jxbdzyw.com/m3u8/?url=",
       "categories": [
         "动作片",
         "喜剧片",
@@ -103,17 +82,9 @@
         "欧美综艺"
       ]
     },   
-    {
-      "key": "sohu",
-      "name": "搜狐（受损）",
-      "type": 1,
-      "api": "https://tvbox-1-g5221611.deta.app/vod/sohu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playUrl": "parse:官解3"
-    },
+//    {"key": "sohu","name": "搜狐（受损）","type": 1,"api": "https://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1,"playUrl": "parse:官解3"},
+ // {"key": "新浪资源", "name": "🌊新浪","type": 1,"api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1,"quickSearch": 1,"playUrl": "","categories": ["大陆剧","动作片","动漫","综艺"]},  
   
-    
   
     //{"key": "360影视", "name": "❇️360(官)","type": 3,"api": "csp_SP360","searchable": 1, "quickSearch": 1,"filterable": 1,"changeable": 0,       "playUrl": "parse:免费分享","jar":"./jar/Aoki.jar"},
  //{"key":"csp_QQ" ,"name":"🐧腾讯QQ","type":3,"api": "./js/drpy2.min.js","ext": "./js/tengxun.js","searchable":1,"quickSearch":1,"filterable":1},
@@ -158,15 +129,7 @@
 	"ext": "./lib/dadagui.json"},
 
 
-  {"key": "hwtv_yqks",
-"name": "💞一起┃影视",
-"jar": " ./jar/fix1209.jar",
-"type": 3,
-"api": "csp_YQKan",
-"searchable": 1,
-"quickSearch": 1,
-"changeable": 1
-},
+// {"key": "hwtv_yqks","name": "💞一起┃影视","jar": " ./jar/fix1209.jar","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
 
 { "key": "NoSearch_csp_BBB",
   "name": "🅱哔哩┃合集",
@@ -179,16 +142,7 @@
   "jar":"./jar/fix1209.jar"},
 
  
-    {
-      "key": "益达影视",
-      "name": "🌝┃益达┃（受损）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
-    },
+   // {"key": "益达影视","name": "🌝┃益达┃（受损）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://myd666.tv/lvdou_api.php/v1.vod"},
     {
       "key": "七七",
       "name": "🌈┃七七┃影视",
@@ -473,23 +427,7 @@
         "日本综艺",        "新马泰综艺",        "纪录片"      ]
     },
     
-     {
-      "key": "BT资源",
-      "name": "BT影院(受损)",
-      "type": 1,
-      "api": "https://www.btyy.cc/",
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "海外剧",        
-        "韩国剧",
-        "日本剧",
-        "泰国剧"
-      ]
-    },
+// {"key": "BT资源","name": "BT影院(受损)","type": 1,"api": "https://www.btyy.cc/","filterable": 1,"categories": ["国产剧","香港剧","台湾剧","欧美剧","海外剧","韩国剧","日本剧","泰国剧"]},
     {
       "key": "csp_量子资源",
       "name": "🤖量子资源",
@@ -521,15 +459,6 @@
       "filterable": 1
     },
 
-     {"key": "种子短剧",
-      "name": "💮吾爱短剧",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-
-    },
     {
       "key": "OXS",
       "name": "🚆O先生影视",
