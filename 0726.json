@@ -215,8 +215,8 @@
             "changeable": 0,
              "jar":"./jar/fan.txt",
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "quarkCookie": "tvfan/cookie.txt",
+                "aliToken": "./tvfan/token.txt",
+                "quarkCookie": "./tvfan/cookie.txt",
                 "from": "4k|auto|fhd",
                 "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
