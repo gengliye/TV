@@ -17,15 +17,6 @@
 
 "sites":[
 
-    {
-      "key": "本地",
-      "name": "💻不得违法使用┃仅供学习",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 0,
-      "changeable": 0
-    },
-
 
   { "key": "首页",
     "name": "🎞️豆瓣┃影视",
@@ -292,16 +283,26 @@
             "jar":"./jar/fan.txt",
             "ext": "https://www.80yy3.com/"
         },
+       {
+            "key": "苹果",
+            "name": "🍎苹果┃不卡",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "原创",
+            "name": "☀原创┃不卡",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
 
-{"key":"天天视频",
-"name":"🚛天天┃（受损）",
-"type":3,
-"api":"csp_AppYsV2",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"https://ttsp.live/api.php/app/"
-},
 
 {"key": "49zy",
 "name": "💞疾风┃1080",
