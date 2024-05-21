@@ -8,7 +8,7 @@
    
   
       {
-      "url": " https://gitee.com/tvkj/tw/raw/main/svip.json",
+      "url": " https://gitee.com/glytv/tv/raw/main/svip.json",
       "name": "😸SVIP借道"
     },
       {
