@@ -16,7 +16,7 @@
       "name": "🌹吾爱线路"
     },
  {
-      "url": "http://bp.tvbox.cam",
+      "url": "https://d.kstore.space/download/6474/tvbox/api.json",
       "name": "🎬白嫖接口"
     },
  {
