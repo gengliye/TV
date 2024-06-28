@@ -16,15 +16,15 @@
       "name": "🌹吾爱线路"
     },
  {
-      "url": "https://szyyds.cn/tv/x.json",
-      "name": "🎬小马线路"
+      "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+      "name": "🎬欧哥线路"
     },
  {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
-     "name": "🎬一木自用"
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
+     "name": "🎬王二放牛娃"
     },
     {
-      "url": "http://www.饭太硬.com/tv/",
+      "url": "http://www.xn--sss604efuw.com/tv/",
       "name": "💎饭太硬"
     },
      {
@@ -41,8 +41,8 @@
     },
 
     {
-      "url": "http://pandown.pro/tvbox/tvbox.json",
-      "name": "🐻‍❄️待分析2"
+      "url": "https://pastebin.com/raw/5NHaxyGR",
+      "name": "🐻‍❄️道长线路"
     },
     {
       "url": "http://rihou.cc:88/荷城茶秀",
