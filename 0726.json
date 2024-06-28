@@ -82,14 +82,14 @@
         "欧美综艺"
       ]
     },   
-//    {"key": "sohu","name": "搜狐（受损）","type": 1,"api": "https://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1,"playUrl": "parse:官解3"},
+  {"key": "sohu","name": "搜狐（受损）","type": 1,"api": "https://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1},
  // {"key": "新浪资源", "name": "🌊新浪","type": 1,"api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1,"quickSearch": 1,"playUrl": "","categories": ["大陆剧","动作片","动漫","综艺"]},  
   
   
-    //{"key": "360影视", "name": "❇️360(官)","type": 3,"api": "csp_SP360","searchable": 1, "quickSearch": 1,"filterable": 1,"changeable": 0,       "playUrl": "parse:免费分享","jar":"./jar/Aoki.jar"},
+{"key": "360影视", "name": "❇️360(官)","type": 3,"api": "csp_SP360","searchable": 1, "quickSearch": 1,"filterable": 1,"changeable": 0,       "jar":"./jar/Aoki.jar"},
  //{"key":"csp_QQ" ,"name":"🐧腾讯QQ","type":3,"api": "./js/drpy2.min.js","ext": "./js/tengxun.js","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/0925.jar"},
- //{"key":"csp_MGTV","name":"🍋芒果Tv","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/0925.jar"},
+ {"key":"csp_MGTV","name":"🍋芒果Tv","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/0925.jar"},
  //{"key":"drpy_js_优酷","name":"🏓优酷解析（受损）","type":3,"api":"./JS/drpy2.min.js","ext":"./js/优酷.js","jar":"./jar/0925.jar"},
 
 
@@ -141,8 +141,6 @@
   "ext": "./json/bili.json",
   "jar":"./jar/fix1209.jar"},
 
- 
-   // {"key": "益达影视","name": "🌝┃益达┃（受损）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://myd666.tv/lvdou_api.php/v1.vod"},
     {
       "key": "七七",
       "name": "🌈┃七七┃影视",
