@@ -16,8 +16,8 @@
       "name": "🌹吾爱线路"
     },
  {
-      "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-      "name": "🎬欧哥线路"
+      "url": "http://bp.tvbox.cam",
+      "name": "🎬白嫖接口"
     },
  {
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
@@ -32,8 +32,8 @@
       "name": "🏮春盈天下"
     },
      {
-      "url": "https://tvbox.cainisi.cf",
-      "name": "🧬菜妮斯"
+      "url": "http://itvbox.cc/云星日记",
+      "name": "🧬云星接口"
     },
   {
       "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
