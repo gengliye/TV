@@ -196,7 +196,7 @@
                 ]
             },
             {
-                "key": "tid",
+                "key": "type",
                 "name": "年级",
                 "value": [
                     {
@@ -280,7 +280,7 @@
                 ]
             },
             {
-                "key": "tid",
+                "key": "type",
                 "name": "年级",
                 "value": [
                     {
@@ -364,7 +364,7 @@
                 ]
             },
             {
-                "key": "tid",
+                "key": "type",
                 "name": "年级",
                 "value": [
                     {
