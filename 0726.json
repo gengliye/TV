@@ -198,7 +198,7 @@
             "filterable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-                "filter": "./jsom/wogg.json"
+                "filter": "./json/wogg.json"
             },
             "jar": "./jar/fan.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"
         },
@@ -245,7 +245,7 @@
                 "aliToken": "./tvfan/token.txt",
                 "quarkCookie": "./tvfan/cookie.txt",
                 "from": "4k|auto|fhd",
-                "siteUrl": "https://www.wogg.link/",
+                "siteUrl": "https://www.wogg.bf/",
                 "danMu": "弹"
             }
         },
