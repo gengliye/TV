@@ -8,8 +8,8 @@
    
   
       {
-      "url": " https://gitee.com/glytv/tv/raw/main/svip.json",
-      "name": "😸SVIP借道"
+      "url": " http://我不是.肥猫.live/接口禁止贩卖",
+      "name": "😸我不是肥猫"
     },
       {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
