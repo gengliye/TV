@@ -49,7 +49,7 @@
       "api": "csp_ConfigCenter",
       "searchable": 0,
       "changeable": 0,
-      "jar": "./jar/duoduo_spider.jar",
+      "jar": "./duoduo_spider.jar",
       "ext": {
         "commonConfig": "./json/peizhi.json"
       }
