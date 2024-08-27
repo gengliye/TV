@@ -230,23 +230,7 @@
             "ext": "https://www.libvio.pro/static/js/playerconfig.js",
             "jar": " ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
         },
-        {
-            "key": "玩偶",
-            "name": "👽玩偶哥哥┃4K弹幕",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "./jar/fan.txt",
-            "ext": {
-                "aliToken": "./tvfan/token.txt",
-                "quarkCookie": "./tvfan/cookie.txt",
-                "from": "4k|auto|fhd",
-                "siteUrl": "https://www.wogg.bf/",
-                "danMu": "弹"
-            }
-        },
+       
         {
             "key": "视觉",
             "name": "👓视觉┃多线",
@@ -528,119 +512,60 @@
             "jar": "./jar/yimu.jar;"
         },
 
-        {
-            "key": "csp_KungFu404",
-            "name": "🎦阿里设置",
-            "type": 3,
-            "api": "csp_KungFu404",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "jar": "./jar/alibaba.jar"
-        },
-        {
-            "key": "阿里云盘网",
-            "name": "🚛云盘网┃4K",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/aliyunpan.json",
-            "jar": "./jar/ysc.jar"
-        },
-        {
-            "key": "阿里云盘",
-            "name": "🖥阿里云盘",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "jar": "./jar/ali.jar"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "🧟‍♀️找资源┃搜索",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "./jar/fty.jar",
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
-        },
-        {
-            "key": "夸搜",
-            "name": "🐺夸搜┃搜索",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "./jar/fan.txt",
-            "ext": {
-                "pan": "quark",
-                "quarkCookie": "tvfan/cookie.txt",
-                "from": "4k|auto|fhd"
-            }
-        },
-        {
-            "key": "YiSo",
-            "name": "😹易搜┃搜索",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "./jar/fan.txt",
-            "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
-            }
-        },
-        {
-            "key": "PanSou",
-            "name": "🦊盘搜┃搜索",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "./jar/fan.txt",
-            "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
-            }
-        },
-        {
-            "key": "UpYun",
-            "name": "😻Up搜┃搜索",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "./jar/fan.txt",
-            "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
-            }
-        },
-        {
-            "key": "PanSearch",
-            "name": "🙀盘Se┃搜索",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "./jar/fan.txt",
-            "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
-            }
-        },
+ {
+      "key": "多多玩偶",
+      "name": "多多影音",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./duoduo_spider.jar",
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "https://tv.yydsys.cc",
+        "filter": "./json/wogg.json"
+      }
+    },	 	
+	{
+	 "key": "js_荐片",
+	 "name": "荐片影视",
+	 "type": 3,
+     "jar": "./duoduo_spider.jar",
+	 "api": "./lib/drpy2.min.js",
+	 "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/荐片[优].js",
+	 "playerType": 1,
+	 "searchable": 1,
+	 "quickSearch": 1,
+	 "filterable": 1
+	},	
+    {
+      "key": "玩偶gg",
+      "name": "饭硬玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./duoduo_spider.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "https://www.wogg.bf/",
+        "filter": "./json/wogg.json"
+      }
+    },
+    {
+      "key": "蜡笔玩偶",
+      "name": "蜡笔玩偶",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./duoduo_spider.jar",
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "https://duopan.fun/",
+        "filter": "./json/wogg.json"
+      }
+    },	
         {
             "key": "Kuaikan",
             "name": " 🎴吾爱快看(SP)",
