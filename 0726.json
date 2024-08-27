@@ -41,7 +41,19 @@
             "filterable": 1,
             "ext": "./lib/幼儿启蒙.json"
         },
-  
+
+        {
+      "key": "ConfigCenter",
+      "name": "配置中心",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "./jar/duoduo_spider.jar",
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      }
+      },
         {
             "key": "csp_xml_百度",
             "name": "⚜️百度",
