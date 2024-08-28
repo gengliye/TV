@@ -635,8 +635,8 @@
       "indexs": 0
     },
      {
-      "key": "ConfigCenter",
-      "name": "网盘配置",
+      "key": "ConfigCenterCDN",
+      "name": "网盘配置CDN",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
