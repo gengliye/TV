@@ -532,7 +532,7 @@
 	 "type": 3,
      "jar": "./duoduo_spider.jar",
 	 "api": "./lib/drpy2.min.js",
-	 "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/%E8%8D%90%E7%89%87%5B%E4%BC%98%5D.js",
+	 "ext": "./js/荐片[优].js",
 	 "playerType": 1,
 	 "searchable": 1,
 	 "quickSearch": 1,
@@ -566,6 +566,47 @@
         "filter": "./json/wogg.json"
       }
     },	
+
+     {
+      "key": "网盘集合",
+      "name": "网盘集合",
+      "type": 3,
+      "api": "csp_网盘集合",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+            "jar": "./duoduo_spider.jar",
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "share": "./网盘集合.json"
+      }
+    },
+    {
+      "key": "易搜",
+      "name": "易搜网盘",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+            "jar": "./duoduo_spider.jar",
+      "ext": {
+        "commonConfig": "./peizhi.json"
+      }
+    },
+    {
+      "key": "盤搜索",
+      "name": "网盘搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 0,
+            "jar": "./duoduo_spider.jar",
+      "ext": {
+        "commonConfig": "./peizhi.json"
+      }
+    },	
+
         {
             "key": "Kuaikan",
             "name": " 🎴吾爱快看(SP)",
