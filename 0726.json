@@ -615,7 +615,38 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }
+        },
+         {
+            "key": "csp_KungFu404",
+            "name": "🎦阿里设置",
+            "type": 3,
+            "api": "csp_KungFu404",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "jar": "./jar/alibaba.jar"
+        },
+        {
+            "key": "阿里云盘网",
+            "name": "🚛云盘网┃4K",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/aliyunpan.json",
+            "jar": "./jar/ysc.jar"
+        },
+        {
+            "key": "阿里云盘",
+            "name": "🖥阿里云盘",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "jar": "./jar/ali.jar"
+        },
     ],
     "parses": [
         {
