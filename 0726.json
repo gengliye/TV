@@ -616,6 +616,36 @@
             "quickSearch": 1,
             "filterable": 1
         },
+          {
+      "key": "Wexconfig",
+      "name": "🐮通用类型┃配置中心🐮",
+      "type": 3,
+      "api": "csp_Wexconfig",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0
+    },
+    {
+      "key": "Wexokconfig",
+      "name": "🐮影视专用┃配置中心🐮",
+      "type": 3,
+      "api": "csp_Wexokconfig",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0
+    },
+     {
+      "key": "ConfigCenter",
+      "name": "网盘配置",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/apps/raw/duo4k.jar",
+      "ext": {
+        "commonConfig": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/apps/raw/peizhi.json"
+      }
+    },
          {
             "key": "csp_KungFu404",
             "name": "🎦阿里设置",
@@ -646,7 +676,7 @@
             "filterable": 0,
             "changeable": 0,
             "jar": "./jar/ali.jar"
-        },
+        }
     ],
     "parses": [
         {
