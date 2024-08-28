@@ -532,7 +532,7 @@
 	 "type": 3,
      "jar": "./duoduo_spider.jar",
 	 "api": "./lib/drpy2.min.js",
-	 "ext": "./js/荐片[优].js",
+	 "ext": "https://yubox.xyz/drpy_js/荐片[优].js",
 	 "playerType": 1,
 	 "searchable": 1,
 	 "quickSearch": 1,
