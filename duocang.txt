@@ -49,8 +49,8 @@
       "name": "⚜️荷城茶秀"
     },
     {
-      "url": "http://meowtv.cn/tv",
-      "name": "🐱喵影视"
+      "url": "https://raw.githubusercontent.com/yuyu10245/yuyu/master/xc.json",
+      "name": "🐱yuyu影视"
     },    
 
     {
