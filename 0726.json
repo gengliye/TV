@@ -365,18 +365,7 @@
             "jar": "./jar/fan.txt",
             "ext": "https://auete.pro/"
         },
-        {
-            "key": "新6V",
-            "name": "🧲新6V┃磁力",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "./jar/fan.txt",
-            "ext": "http://www.xb6v.com/"
-        },
-      
+           
         {
             "key": "meowtv_wfys",
             "name": "🇹┃飞网2k┃秒播",
@@ -673,6 +662,7 @@
             "api": "csp_Xb6v",
             "searchable": 1,
             "changeable": 1,
+             "jar": "./duoduo_pg.jar",
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
         },
@@ -681,6 +671,7 @@
             "name": "磁力熊┃磁力",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "jar": "./duoduo_pg.jar",
             "ext": "./lib/磁力熊.js"
         },
         {
@@ -688,6 +679,7 @@
             "name": "迅雷吧┃磁力",
             "type": 3,
             "api": "csp_Xunlei8",
+            "jar": "./duoduo_pg.jar",            
             "changeable": 1,
             "timeout": 60
         },
@@ -696,6 +688,7 @@
             "name": "SeedHub┃磁力",
             "type": 3,
             "api": "csp_SeedHub",
+            "jar": "./duoduo_pg.jar",  
             "changeable": 1,
             "timeout": 60
         },
@@ -705,6 +698,7 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/kuba.js",
+             "jar": "./duoduo_pg.jar",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -714,6 +708,7 @@
             "name": "影搜┃网盘搜索",
             "type": 3,
             "api": "csp_YingSo",
+             "jar": "./duoduo_pg.jar",
             "timeout": 60,
             "ext": "./lib/tokenm.json"
         },
@@ -722,6 +717,7 @@
             "name": "小纸条┃网盘搜索",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
+             "jar": "./duoduo_pg.jar",
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
@@ -732,6 +728,7 @@
             "name": "TG搜索┃网盘搜索",
             "type": 3,
             "api": "csp_TGYunPan",
+             "jar": "./duoduo_pg.jar",
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"
         },
@@ -740,6 +737,7 @@
             "name": "PanSearch┃网盘搜索",
             "type": 3,
             "api": "csp_PanSearch",
+             "jar": "./duoduo_pg.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -751,6 +749,7 @@
             "name": "易搜┃网盘搜索",
             "type": 3,
             "api": "csp_YiSo",
+             "jar": "./duoduo_pg.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -762,6 +761,7 @@
             "name": "千帆┃网盘搜索",
             "type": 3,
             "api": "csp_Qianfan",
+             "jar": "./duoduo_pg.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -773,6 +773,7 @@
             "name": "秒搜┃网盘搜索",
             "type": 3,
             "api": "csp_MiaoSou",
+             "jar": "./duoduo_pg.jar",
             "timeout": 60,
             "ext": "./lib/tokenm.json",
             "style": {
@@ -785,6 +786,7 @@
             "name": "趣盘搜┃网盘搜索",
             "type": 3,
             "api": "csp_Funletu",
+             "jar": "./duoduo_pg.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -800,6 +802,7 @@
             "name": "大盘搜┃网盘搜索",
             "type": 3,
             "api": "csp_DaPanSo",
+             "jar": "./duoduo_pg.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -811,6 +814,7 @@
             "name": "皮卡搜┃网盘搜索",
             "type": 3,
             "api": "csp_PikaSo",
+             "jar": "./duoduo_pg.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -826,6 +830,7 @@
             "name": "混合盘┃网盘搜索",
             "type": 3,
             "api": "csp_HunHePan",
+             "jar": "./duoduo_pg.jar",
             "timeout": 60,
             "ext": "./lib/tokenm.json",
             "style": {
@@ -838,6 +843,7 @@
             "name": "阿里云盘┃分享",
             "type": 3,
             "api": "csp_AliShare",
+             "jar": "./duoduo_pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -854,6 +860,7 @@
             "name": "UC云盘┃分享",
             "type": 3,
             "api": "csp_UCShare",
+             "jar": "./duoduo_pg.jar",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
@@ -870,6 +877,7 @@
             "name": "夸克云盘┃分享",
             "type": 3,
             "api": "csp_QuarkShare",
+             "jar": "./duoduo_pg.jar",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
@@ -886,6 +894,7 @@
             "name": "115云盘┃分享",
             "type": 3,
             "api": "csp_P115Share",
+             "jar": "./duoduo_pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
