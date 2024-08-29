@@ -640,7 +640,7 @@
         },
         {
             "key": "新6V",
-            "name": "新6V┃磁力",
+            "name": "🧲新6V┃磁力",
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
@@ -651,7 +651,7 @@
         },
         {
             "key": "磁力熊",
-            "name": "磁力熊┃磁力",
+            "name": "🧲磁力熊┃磁力",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "jar": "./duoduo_pg.jar",
@@ -659,7 +659,7 @@
         },
         {
             "key": "Xunlei8",
-            "name": "迅雷吧┃磁力",
+            "name": "🧲迅雷吧┃磁力",
             "type": 3,
             "api": "csp_Xunlei8",
             "jar": "./duoduo_pg.jar",            
@@ -668,7 +668,7 @@
         },
         {
             "key": "SeedHub",
-            "name": "SeedHub┃磁力",
+            "name": "🧲SeedHub┃磁力",
             "type": 3,
             "api": "csp_SeedHub",
             "jar": "./duoduo_pg.jar",  
@@ -677,7 +677,7 @@
         },
         {
             "key": "drpy_js_酷吧",
-            "name": "酷吧┃磁力",
+            "name": "🧲酷吧┃磁力",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/kuba.js",
@@ -689,7 +689,7 @@
    
         {
             "key": "AliShare",
-            "name": "阿里云盘┃分享",
+            "name": "🥏阿里云盘┃分享",
             "type": 3,
             "api": "csp_AliShare",
              "jar": "./duoduo_pg.jar",
@@ -706,7 +706,7 @@
         },
         {
             "key": "UCShare",
-            "name": "UC云盘┃分享",
+            "name": "🥏UC云盘┃分享",
             "type": 3,
             "api": "csp_UCShare",
              "jar": "./duoduo_pg.jar",
@@ -723,7 +723,7 @@
         },
         {
             "key": "QuarkShare",
-            "name": "夸克云盘┃分享",
+            "name": "🥏夸克云盘┃分享",
             "type": 3,
             "api": "csp_QuarkShare",
              "jar": "./duoduo_pg.jar",
@@ -740,7 +740,7 @@
         },
         {
             "key": "115Share",
-            "name": "115云盘┃分享",
+            "name": "🥏115云盘┃分享",
             "type": 3,
             "api": "csp_P115Share",
              "jar": "./duoduo_pg.jar",
@@ -757,7 +757,7 @@
         },
      {
             "key": "YingSo",
-            "name": "影搜┃网盘搜索",
+            "name": "🔍影搜┃网盘搜索",
             "type": 3,
             "api": "csp_YingSo",
              "jar": "./duoduo_pg.jar",
@@ -766,7 +766,7 @@
         },
         {
             "key": "小纸条",
-            "name": "小纸条┃网盘搜索",
+            "name": "🔍小纸条┃网盘搜索",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
              "jar": "./duoduo_pg.jar",
@@ -777,7 +777,7 @@
         },
         {
             "key": "TGYunPan",
-            "name": "TG搜索┃网盘搜索",
+            "name": "🔍TG搜索┃网盘搜索",
             "type": 3,
             "api": "csp_TGYunPan",
              "jar": "./duoduo_pg.jar",
@@ -786,7 +786,7 @@
         },
         {
             "key": "PanSearch",
-            "name": "PanSearch┃网盘搜索",
+            "name": "🔍PanSearch┃网盘搜索",
             "type": 3,
             "api": "csp_PanSearch",
              "jar": "./duoduo_pg.jar",
@@ -798,7 +798,7 @@
         },
         {
             "key": "易搜",
-            "name": "易搜┃网盘搜索",
+            "name": "🔍易搜┃网盘搜索",
             "type": 3,
             "api": "csp_YiSo",
              "jar": "./duoduo_pg.jar",
@@ -810,7 +810,7 @@
         },
         {
             "key": "Qianfan",
-            "name": "千帆┃网盘搜索",
+            "name": "🔍千帆┃网盘搜索",
             "type": 3,
             "api": "csp_Qianfan",
              "jar": "./duoduo_pg.jar",
@@ -822,7 +822,7 @@
         },
         {
             "key": "秒搜",
-            "name": "秒搜┃网盘搜索",
+            "name": "🔍秒搜┃网盘搜索",
             "type": 3,
             "api": "csp_MiaoSou",
              "jar": "./duoduo_pg.jar",
@@ -835,7 +835,7 @@
         },
         {
             "key": "Funletu",
-            "name": "趣盘搜┃网盘搜索",
+            "name": "🔍趣盘搜┃网盘搜索",
             "type": 3,
             "api": "csp_Funletu",
              "jar": "./duoduo_pg.jar",
@@ -851,7 +851,7 @@
         },
         {
             "key": "DaPanSo",
-            "name": "大盘搜┃网盘搜索",
+            "name": "🔍大盘搜┃网盘搜索",
             "type": 3,
             "api": "csp_DaPanSo",
              "jar": "./duoduo_pg.jar",
@@ -863,7 +863,7 @@
         },
         {
             "key": "PikaSo",
-            "name": "皮卡搜┃网盘搜索",
+            "name": "🔍皮卡搜┃网盘搜索",
             "type": 3,
             "api": "csp_PikaSo",
              "jar": "./duoduo_pg.jar",
@@ -879,7 +879,7 @@
         },
         {
             "key": "混合盘",
-            "name": "混合盘┃网盘搜索",
+            "name": "🔍混合盘┃网盘搜索",
             "type": 3,
             "api": "csp_HunHePan",
              "jar": "./duoduo_pg.jar",
