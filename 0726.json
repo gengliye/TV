@@ -618,16 +618,7 @@
         "commonConfig": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/apps/raw/peizhi.json"
       }
      },
-      {
-            "key": "网盘配置",
-            "name": "网盘及弹幕配置",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-             "jar": "./duoduo_pg.jar;md5;7c03297c89aa832f88092d4567664ad8",
-            "ext": "./lib/tokenm.json"
-        },
+  
          {
             "key": "csp_KungFu404",
             "name": "🎦阿里设置",
@@ -687,6 +678,16 @@
             "timeout": 60
         },
    
+       {
+            "key": "网盘配置",
+            "name": "网盘及弹幕配置",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+             "jar": "./duoduo_pg.jar;md5;7c03297c89aa832f88092d4567664ad8",
+            "ext": "./lib/tokenm.json"
+        },
         {
             "key": "AliShare",
             "name": "🥏阿里云盘┃分享",
