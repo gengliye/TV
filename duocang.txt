@@ -3,10 +3,15 @@
    
     {
       "url": "https://gitee.com/china_19_0/tv/raw/main/0726.json",
-      "name": "😸自建线路0726码云"
+      "name": "😸自建线路0830集合"
     },
    
   
+     {
+      "url": "https://gitee.com/glytv/tv/raw/main/jsm.json ",
+      "name": "😸自建网盘oline"
+    },
+    
       {
       "url": " http://肥猫.com",
       "name": "😸我不是肥猫"
