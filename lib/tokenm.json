@@ -43,5 +43,6 @@
 "pikpak_vip_thread_limit":2,
 "pikpak_proxy":"",
 "pikpak_proxy_onlyapi":false,
-"pikpak_danmu":true,
+"pikpak_danmu":true
+
 }
