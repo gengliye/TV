@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",
+    "spider": "./duoduo_spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
     "lives": [
         {
             "name": "redirect",
