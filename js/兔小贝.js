@@ -11,7 +11,7 @@ var rule = {
     },
     timeout:5000,
     class_url:'2&3&4&5&6&7&25',
-    class_name:'儿歌&故事&国学&5&6&7&启蒙',
+    class_name:'儿歌&故事&国学&英语&数学&折纸&启蒙',
     //class_name:'#page-viewport&&ul&&li;.text&&Text;a&&href;/(.*)',
     cate_exclude:'应用',
     推荐:'.pic-list.list-box;.items;.text&&Text;mip-img&&src;.all&&Text;a&&href',
