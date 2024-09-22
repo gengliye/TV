@@ -26,7 +26,7 @@
             "name": "👧曼曼爱学习",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 0,
+            "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./lib/儿童拼音.json"
@@ -170,17 +170,17 @@
             "ext": "./lib/dadagui.json"
         },
         {"key": "hwtv_yqks","name": "💞一起┃影视","jar": " ./jar/fix1209.jar","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
-        {
-            "key": "NoSearch_csp_BBB",
-            "name": "🅱哔哩┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./json/bili.json",
-            "jar": "./jar/fix1209.jar"
-        },
+     //   {
+     //       "key": "NoSearch_csp_BBB",
+     //       "name": "🅱哔哩┃合集",
+    //        "type": 3,
+    //        "api": "csp_Bili",
+   //         "searchable": 0,
+   //         "quickSearch": 0,
+   //         "filterable": 1,
+  //          "ext": "./json/bili.json",
+   //         "jar": "./jar/fix1209.jar"
+  //      },
         {
             "key": "七七",
             "name": "🌈┃七七┃影视",
