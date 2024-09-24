@@ -32,35 +32,15 @@
       "url": "http://www.xn--sss604efuw.com/tv/",
       "name": "💎饭太硬"
     },
-     {
-      "url": "http://120.24.204.74:1888/?explorer/share/file&hash=1277MMs1UITPwRkFSiUwxvFZU1UGQqfXHMnKQHeMcexYxjtYy9tydrVYUbsNkOItAw&name=/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E6%96%B0yy.css",
-      "name": "🏮春盈天下"
-    },
+
      {
       "url": "http://itvbox.cc/云星日记",
       "name": "🧬云星接口"
     },
-  {
-      "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
-      "name": "🐾OK吊炸天"
-    },
 
-    {
-      "url": "https://pastebin.com/raw/5NHaxyGR",
-      "name": "🐻‍❄️道长线路"
-    },
     {
       "url": "http://rihou.cc:88/荷城茶秀",
       "name": "⚜️荷城茶秀"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/yuyu10245/yuyu/master/xc.json",
-      "name": "🐱yuyu影视"
-    },    
-
-    {
-      "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-      "name": "🥳巧技线路"
     }
   ]
 }
