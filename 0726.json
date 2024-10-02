@@ -18,8 +18,8 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "./json/douban.json",
-            "jar": "./jar/fm1204.jar;md5;9060b67dfec8782aca6e79ba17c0979b"
+            "ext": "./json/douban.json"
+          
         },
         {
             "key": "儿童拼音",
