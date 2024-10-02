@@ -37,6 +37,12 @@
       "url": "http://itvbox.cc/云星日记",
       "name": "🧬云星接口"
     },
+     {
+      "url": "https://gitee.com/wsna/files/raw/master/n.json",
+      "name": "🧬未知分析"
+    },
+
+    
 
     {
       "url": "http://rihou.cc:88/荷城茶秀",
