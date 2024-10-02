@@ -158,17 +158,7 @@
             "ext": "http://op.ysdqjs.cn",
             "jar": " ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
         },
-        {
-            "key": "达达龟",
-            "name": "💞疾风┃蓝光",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./lib/dadagui.json"
-        },
-        {"key": "hwtv_yqks","name": "💞一起┃影视","jar": " ./jar/fix1209.jar","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
+      
      //   {
      //       "key": "NoSearch_csp_BBB",
      //       "name": "🅱哔哩┃合集",
@@ -180,45 +170,11 @@
   //          "ext": "./json/bili.json",
    //         "jar": "./jar/fix1209.jar"
   //      },
-        {
-            "key": "七七",
-            "name": "🌈┃七七┃影视",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Nmys",
-            "name": "🌾┃农民┃影视",
-            "type": 3,
-            "api": "csp_Nmys",
-            "ext": "./json/nmys.json"
-        },
-   
-        {
-            "key": "csp_AppMr",
-            "name": "👻┃明明┃影视",
-            "type": 3,
-            "api": "csp_AppMr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "奇奇",
-            "name": "🐭┃迷迷┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+       
+      
         {
             "key": "Lib",
-            "name": "Lib┃直连",
+            "name": "🍓Lib┃直连",
             "type": 3,
             "api": "csp_Lib",
             "searchable": 1,
@@ -227,8 +183,7 @@
             "ext": "https://www.libvio.pro/static/js/playerconfig.js",
             "jar": " ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
         },
-        {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
-        {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+       
      
         {"key":"Lib",
         "name": "🌟立播┃秒播",
@@ -249,16 +204,7 @@
         "quickSearch":1,
         "changeable":1
         }, 
-        {"key":"糯米",
-        "name":"🍓糯米┃秒播",
-        "type":3,
-        "api":"csp_Nmyswv",
-         "jar": "./jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
-        "timeout":15,
-        "searchable":1,
-        "quickSearch":1,
-        "changeable":1
-        }, 
+        
         {
             "key": "苹果",
             "name": "🍎苹果┃不卡",
