@@ -146,7 +146,7 @@
           "searchable":1,
           "quickSearch":1,
           "changeable":1,
-           "jar": " ./jar/fan.txt"
+           "jar": " ./jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
            },
        
         {
@@ -236,14 +236,14 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable":1,
-         "jar": "./jar/fan.txt",
+         "jar": "./jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
         "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}
         }, 
         {"key":"文采",
         "name":"💮文采┃秒播",
         "type":3,
         "api":"csp_Jpys",
-         "jar": "./jar/fan.txt",
+         "jar": "./jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
         "playerType":2,
         "searchable":1,
         "quickSearch":1,
@@ -253,7 +253,7 @@
         "name":"🍓糯米┃秒播",
         "type":3,
         "api":"csp_Nmyswv",
-         "jar": "./jar/fan.txt",
+         "jar": "./jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
         "timeout":15,
         "searchable":1,
         "quickSearch":1,
@@ -267,7 +267,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/fan.txt"
+            "jar": "./jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
         },
 
        
