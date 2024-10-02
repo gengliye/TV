@@ -15,10 +15,10 @@
             "key": "首页",
             "name": "🎞️豆瓣┃影视",
             "type": 3,
-            "api": "csp_Douban",
+            "api": "./js/drpymin2.js",
             "searchable": 0,
             "changeable": 1,
-            "ext": "./json/douban.json"
+            "ext": "./js/douban.js"
           
         },
         {
