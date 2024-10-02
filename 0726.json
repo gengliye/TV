@@ -503,6 +503,7 @@
             "name": "网盘及弹幕配置",
             "type": 3,
             "api": "csp_Config",
+            "jar": "./duoduo_pg.jar;md5;7c03297c89aa832f88092d4567664ad8",
             "searchable": 0,
             "changeable": 0,
             "ext": "./lib/tokenm.json"
