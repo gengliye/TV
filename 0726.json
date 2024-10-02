@@ -140,16 +140,16 @@
         },
           { 
             "key": "南瓜",
-            "name": "南瓜┃App",
+            "name": "🎃南瓜┃多线",
             "type": 3,
             "api": "csp_NanGua",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": 2,
             "filterable": 1,
-            "ext": "",
-            "jar": " ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
+            "jar": " ./jar/fan.txt"
         },
+
         {
             "key": "天天",
             "name": "天天┃App",
