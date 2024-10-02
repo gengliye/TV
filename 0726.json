@@ -228,7 +228,7 @@
             "jar": " ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
         },
         {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
-    
+        {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
      
         {"key":"Lib",
         "name": "🌟立播┃秒播",
@@ -382,18 +382,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "Libvio",
-            "name": "🌟立播┃不卡",
-            "type": 3,
-            "api": "csp_Libvio",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "./jar/fan.txt",
-            "ext": "https://www.libvio.pw/"
-        },
+       
         {
             "key": "Auete",
             "name": "🏝奥特┃无广",
