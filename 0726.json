@@ -86,6 +86,17 @@
                 "欧美综艺"
             ]
         },
+         {
+            "key": "csp_vod_华为",
+            "name": "⚜️华为吧",
+            "type": 1,
+            "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playurl": "https://player.dphw8.com/player?url="
+            
+        },
       {
             "key":"快车资源",
             "name":"快车资源",
@@ -173,6 +184,9 @@
             "filterable": 1,
             "jar": "./jar/0925.jar"
         },
+
+
+
           {"key":"南瓜",
           "name":"🎃南瓜┃多线",
           "type":3,
