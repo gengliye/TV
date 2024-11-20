@@ -88,7 +88,7 @@
             "jar": "./jar/0925.jar"
         },
 {"key":"优酷","name":"🎦优酷(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/优酷.js"},
-{"key":"腾讯","name":"🎦腾讯VIP(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/腾讯VIP.js"},
+{"key":"腾讯","name":"🎦腾讯VIP(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/腾讯VIP.js","playurl":"https://jx.yparse.com/index.php?url="},
 {"key":"芒果","name":"🎦芒果(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/芒果.js"},
 {"key":"搜狗","name":"🎦搜狗(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/搜狗.js"},
 //{"key":"hdfm","name":"🎦网飞(自)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./js/hdfm.js"},
