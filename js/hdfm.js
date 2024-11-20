@@ -6,7 +6,7 @@ var rule = {
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src = jsp.pdfh(html,"ul&&li&&a&&href");print(src);HOST=src.replace("/index.php","")',//网页域名根动态抓取js代码。通过HOST=赋值
    // homeUrl:'/latest/',//网站的首页链接,可以是完整路径或者相对路径,用于分类获取和推荐获取 fyclass是分类标签 fypage是页数
     url:'/wfmbasw/fypage.html[/fyclass/]',//网站的分类页面链接
-    detailUrl:'https://yanetflix.com/voddetail/fyid.html',//非必填,二级详情拼接链接,感觉没啥卵用
+    detailUrl:'',//非必填,二级详情拼接链接,感觉没啥卵用
     searchUrl:'https://www.hbwoxuanqiaojia.com/wfmbasc/-------------.html?wd=**',//搜索链接 可以是完整路径或者相对路径,用于分类获取和推荐获取 **代表搜索词 fypage代表页数
     searchable:1,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
@@ -40,7 +40,7 @@ var rule = {
     class_name:'电影&电视剧&动漫&综艺&短剧',//静态分类名称拼接
     class_url:'1&2&3&4&5',//静态分类标识拼接
     //动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
-    class_parse:'#side-menu:lt(1) li;a&&Text;a&&href;com/(.*?)/',
+    class_parse:'ul.hl-smnav&&li;span&&Text;a&&href;/(\\d+).html',
     // 除开全局过滤之外还需要过滤哪些标题不视为分类
     cate_exclude:'',
     // 除开全局动态线路名过滤之外还需要过滤哪些线路名标题不视为线路
@@ -65,12 +65,12 @@ var rule = {
         },
     }],
     //控制不同分类栏目下的总页面,不填就是默认999.哔哩影视大部分分类无法翻页，都需要指定页数为 1
-    pagecount:{"1":1,"2":1,"3":1,"4":1,"5":1,"7":1,"时间表":1},
+    pagecount:{"1":1,"2":1,"3":1,"4":1,"5":1},
     // 自定义免嗅 
-    lazy:'',
+    lazy:' ',
     // 首页推荐显示数量
     limit:6,
-    double:true,//是否双层列表定位,默认false
+    //double:true,//是否双层列表定位,默认false
     // 对图片加了referer验证的有效,海阔专用,普通规则请勿填写此键值
     图片来源:'@Referer=http://www.jianpianapp.com@User-Agent=jianpian-version350',
     // 替换所有图片链接 欲替换文本=>替换为文本
@@ -94,21 +94,5 @@ var rule = {
     // 搜索可以是*,集成一级，或者跟一级一样的写法 列表;标题;图片;描述;链接;详情
     搜索:'*',
     // 本地代理规则，可用于修改m3u8文件文本去广告后返回代理文件地址，也可以代理加密图片
-    proxy_rule:`js:
-    log(input);
-    input = [200,'text;plain','hello drpy']
-    `,
-    //是否启用辅助嗅探: 1,0
-    sniffer:1,
-    // 辅助嗅探规则
-    isVideo:"http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
-    // 辅助嗅探规则js写法
-    isVideo:`js:
-    log(input);
-    if(/m3u8/.test(input)){
-    input = true
-    }else{
-    input = false
-    }
-    `,
+   
 }
