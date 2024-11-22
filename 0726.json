@@ -102,7 +102,7 @@
           "searchable":1,
           "quickSearch":1,
           "changeable":1,
-           "jar": " ./jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
+           "jar": " ./jar/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8"
            },
           
         {
@@ -112,7 +112,7 @@
             "api": "csp_TTian",
             "playerType": 1,
             "ext": "http://op.ysdqjs.cn",
-            "jar": " ./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
+            "jar": " ./duoduo_pg.jar;md5;BF3BAAE72EC785D580F88E97F60404CA"
         },
       
      //   {
@@ -159,14 +159,14 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable":1,
-         "jar": "./jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+         "jar": "./jar/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8",
         "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}
         }, 
         {"key":"文采",
         "name":"💮文采┃秒播",
         "type":3,
         "api":"csp_Jpys",
-         "jar": "./jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+         "jar": "./jar/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8",
         "playerType":2,
         "searchable":1,
         "quickSearch":1,
@@ -178,7 +178,7 @@
         "api":"csp_Nmyswv",
         "searchable":1,
         "quickSearch":1,
-         "jar": "./jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+         "jar": "./jar/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8",
         "changeable":1
         }, 
         
@@ -190,7 +190,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
+            "jar": "./jar/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8"
         },
 
        
