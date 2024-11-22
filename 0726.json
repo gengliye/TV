@@ -87,11 +87,11 @@
             "filterable": 1,
             "jar": "./jar/0925.jar"
         },
-{"key":"优酷","name":"🎦优酷(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/优酷.js"},
-{"key":"腾讯","name":"🎦腾讯VIP(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/腾讯VIP.js","playurl":"https://jx.yparse.com/index.php?url="},
-{"key":"芒果","name":"🎦芒果(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/芒果.js"},
-{"key":"搜狗","name":"🎦搜狗(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/搜狗.js"},
-//{"key":"hdfm","name":"🎦网飞(自)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./js/hdfm.js"},
+{"key":"优酷","name":" 🍻优酷(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/优酷.js"},
+{"key":"腾讯","name":" 🍻腾讯VIP(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/腾讯VIP.js","playurl":"https://jx.yparse.com/index.php?url="},
+{"key":"芒果","name":" 🍻芒果(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/芒果.js"},
+{"key":"搜狗","name":" 🍻搜狗(官)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./kxb/js/搜狗.js"},
+//{"key":"hdfm","name":" 🍻网飞(自)","type":3,"api":"./kxb/drpy_libs/drpy2.min.js","ext":"./js/hdfm.js"},
 
 
           {"key":"南瓜",
@@ -532,23 +532,23 @@
             "jar": "./jar/HeChengChaXiu.jar"
         },
 
-    {"key":"无忧短剧","name":"🌈无忧┃短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10, "jar": "./kxb/jar/ttkx.jar"},
-    {"key":"在线短剧","name":"👌🏻在线┃短剧","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10, "jar": "./kxb/jar/ttkx.jar"},
-    {"key": "csp_XYQHiker_爱你短剧","name":"🎦爱你短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/爱你短剧.json", "jar": "./kxb/jar/ttkx.jar"},
-{"key": "csp_XYQHiker_河马短剧","name":"🎦河马短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./kxb/json/河马短剧.json", "jar": "./kxb/jar/ttkx.jar"},
-{"key": "js_星芽短剧","name": "🎦星芽短剧","type": 3,"api": "./kxb/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./kxb/js/星芽短剧.js"},	
-{"key": "js_蓝莓短剧","name": "🎦蓝莓短剧","type": 3,"api": "./kxb/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./kxb/js/蓝莓短剧.js"},
-{"key": "你好帅","name": "🎦好帅┃短剧","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组": "<div class=\"sort-item\"&&</div>"} , "jar": "./kxb/jar/ttkx.jar"},
+    {"key":"无忧短剧","name":" 🍻无忧┃短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10, "jar": "./kxb/jar/ttkx.jar"},
+    {"key":"在线短剧","name":" 🍻在线┃短剧","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10, "jar": "./kxb/jar/ttkx.jar"},
+    {"key": "csp_XYQHiker_爱你短剧","name":" 🍻爱你短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/爱你短剧.json", "jar": "./kxb/jar/ttkx.jar"},
+{"key": "csp_XYQHiker_河马短剧","name":" 🍻河马短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./kxb/json/河马短剧.json", "jar": "./kxb/jar/ttkx.jar"},
+{"key": "js_星芽短剧","name": " 🍻星芽短剧","type": 3,"api": "./kxb/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./kxb/js/星芽短剧.js"},	
+{"key": "js_蓝莓短剧","name": " 🍻蓝莓短剧","type": 3,"api": "./kxb/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./kxb/js/蓝莓短剧.js"},
+{"key": "你好帅","name": " 🍻好帅┃短剧","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组": "<div class=\"sort-item\"&&</div>"} , "jar": "./kxb/jar/ttkx.jar"},
 
-{"key": "金牌影视","name": "🎦金牌影视","type": 3,"api": "./kxb/drpy2.min.js","ext": "./kxb/js/金牌影视.js"},
-{"key": "hipy_js_采集之王","name": "🎦采集之王[合]","type": 3,"api": "./kxb/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./kxb/采集之王[合].js?type=url&params=../kxb/采集静态.json$1"},
-    {"key":"️爱看Bot弹幕版","name":"⛅️爱看Bot|弹幕","type": 3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10, "jar": "./kxb/jar/ttkx.jar"},
-{"key": "网飞啦[自动]_js","name": "👨‍🍳‍网飞啦[自动](drpy_t3)","type": 3,"api": "./kxb/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./kxb/js/网飞啦[自动].js"},
-{"key": "网飞猫[优]_js","name": "👨‍🍳‍网飞猫[优]","type": 3,"api": "./kxb/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./kxb/js/网飞猫[优].js"},
+{"key": "金牌影视","name": " 🍻金牌影视","type": 3,"api": "./kxb/drpy2.min.js","ext": "./kxb/js/金牌影视.js"},
+{"key": "hipy_js_采集之王","name": " 🍻采集之王[合]","type": 3,"api": "./kxb/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./kxb/采集之王[合].js?type=url&params=../kxb/采集静态.json$1"},
+    {"key":"️爱看Bot弹幕版","name":" 🍻爱看Bot|弹幕","type": 3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10, "jar": "./kxb/jar/ttkx.jar"},
+{"key": "网飞啦[自动]_js","name": " 🍻‍网飞啦[自动](drpy_t3)","type": 3,"api": "./kxb/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./kxb/js/网飞啦[自动].js"},
+{"key": "网飞猫[优]_js","name": " 🍻‍网飞猫[优]","type": 3,"api": "./kxb/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./kxb/js/网飞猫[优].js"},
 
-{"key": "hipy_js_黑木耳资源[资]","name": "🎦木耳资源","type": 3,"api": "./kxb/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./kxb/js/黑木耳资源[资].js"},
-{"key": "hipy_js_多多追剧[优]","name": "🎦多多追剧","type": 3,"api": "./kxb/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./kxb/js/多多追剧[优].js"},
-{"key": "hipy_js_哔哩影视[官]","name": "🎦哔哩影视[官](drpy_t3)","type": 3,"api": "./kxb/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 73,"ext": "./kxb/js/哔哩影视[官].js"},
+{"key": "hipy_js_黑木耳资源[资]","name": " 🍻木耳资源","type": 3,"api": "./kxb/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./kxb/js/黑木耳资源[资].js"},
+{"key": "hipy_js_多多追剧[优]","name": " 🍻多多追剧","type": 3,"api": "./kxb/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./kxb/js/多多追剧[优].js"},
+{"key": "hipy_js_哔哩影视[官]","name": " 🍻哔哩影视[官](drpy_t3)","type": 3,"api": "./kxb/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 73,"ext": "./kxb/js/哔哩影视[官].js"},
 
         {
             "key": "py_cctv",
