@@ -747,171 +747,33 @@
         }
     ],
     "parses": [
-        {
-            "name": "并发",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Web"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
-        {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "-虾米解析-",
-            "type": 0,
-            "url": "https://jx.xmflv.cc/?url="
-        },
-        {
-            "name": "-冰豆解析-",
-            "type": 1,
-            "url": "https://bd.jx.cn/?url="
-        },
-        {
-            "name": "-playerjy-",
-            "type": 1,
-            "url": "https://jx.playerjy.com/?url="
-        },
-        {
-            "name": "-量子解析-",
-            "type": 1,
-            "url": "https://lziplayer.com/?url="
-        },
-        {
-            "name": "官解1",
-            "type": 1,
-            "url": "https://www.playm3u8.cn/jiexi.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
+        { "name": "并发","type": 3,"url": "Demo"},
+        {"name": "聚合", "type": 3,"url": "Web"},
+        {"name": "Json轮询","type": 2,"url": "Sequence"},
+        {"name": "Json并发","type": 2,"url": "Parallel"},
+        {"name": "-虾米-","type": 0,"url": "https://jx.xmflv.cc/?url="},
+        {"name":"虾米key","type":0,"url":"https://150.138.78.37:4399/api/?key=94b07e0b2c0e8244&url="},
+        {"name": "-冰豆解析-","type": 1,"url": "https://bd.jx.cn/?url="},
+        {"name": "-playerjy-","type": 1,"url": "https://jx.playerjy.com/?url="},
+        {"name": "-量子解析-","type": 1,"url": "https://lziplayer.com/?url="},
+        {"name":"-ik9-","type":0,"url":"https://yparse.ik9.cc/index.php?url="},
+        {"name": "官解1","type": 1,"url": "https://www.playm3u8.cn/jiexi.php?url=" },
 
         {
-            "name": "夜幕解析",
-            "type": 1,
-            "url": "https://www.yemu.xyz/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
+            "name": "夜幕解析","type": 1,"url": "https://www.yemu.xyz/?url=",
+            "ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺","奇艺","youku","优酷","mgtv", "芒果", "letv", "乐视", "pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
+                "header": {"User-Agent": "okhttp/4.1.0"}
+                  }
         },
-        {
-            "name": "-云解析-",
-            "type": 0,
-            "url": "https://jx.yparse.com/index.php?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
-        {
-            "name": "-jsonplayer-",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
-        {
-            "name": "-麒麟-",
-            "type": 0,
-            "url": "https://jx.quankan.app/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        }
+        { "name": "-云解析-","type": 0,"url": "https://jx.yparse.com/index.php?url="},
+        {"name":"-红狐-","type":0,"url":"https://player.mrgaocloud.com/player/?url="}
     ],
+
     "flags": [
-        "youku",
-        "qq",
-        "iqiyi",
-        "imgo",
-        "xueren",
-        "m1905",
-        "qiyi",
-        "letv",
-        "sohu",
-        "tudou",
-        "pptv",
-        "dbm3u8",
-        "mgtv",
-        "wasu",
-        "bilibili",
-        "le",
-        "duoduozy",
-        "renrenmi",
-        "xigua",
-        "优酷",
-        "西瓜",
-        "乐视",
-        "芒果",
-        "腾讯",
-        "爱奇艺",
-        "奇艺",
-        "ltnb",
-        "rx",
-        "CL4K",
-        "xfyun",
-        "wuduzy",
-        "哔哩哔哩",
-        "哔哩"
-    ],
+        "youku", "qq","iqiyi","imgo","xueren","m1905", "qiyi", "letv","sohu", "tudou","pptv", "dbm3u8","mgtv",
+        "wasu","bilibili", "le", "duoduozy", "renrenmi","xigua",  "优酷","西瓜",
+        "乐视",  "芒果",  "腾讯","爱奇艺", "奇艺","ltnb", "rx","CL4K","xfyun","wuduzy", "哔哩哔哩", "哔哩"
+             ],
     "ijk": [
         {
             "group": "软解码",
@@ -1118,160 +980,7 @@
             ]
         }
     ],
-    "pan": {
-        "sites": [
-            {
-                "key": "alist",
-                "name": "Alist",
-                "type": 40,
-                "api": "./alist_open.js",
-                "ext": [
-                    {
-                        "name": "🐾小雅",
-                        "server": "http://124.71.206.236:5678/",
-                        "startPage": "/",
-                        "showAll": false,
-                        "search": true,
-                        "headers": {
-                            "Authorization": ""
-                        },
-                        "params": {
-                            "/abc": {
-                                "password": "123"
-                            },
-                            "/abc/abc": {
-                                "password": "123"
-                            }
-                        }
-                    },
-                    {
-                        "name": "🐾罗汉果🔞",
-                        "server": "https://lala-ofbip.run.goorm.site/"
-                    },
-                    {
-                        "name": "🐾福利",
-                        "server": "http://69.161.221.160:5244/"
-                    },
-                    {
-                        "name": "🐾合集大全",
-                        "server": "http://www.jczyl.top:5244/"
-                    },
-                    {
-                        "name": "🐾东哥",
-                        "server": "http://101.34.67.237:5244/"
-                    },
-                    {
-                        "name": "🐾美云",
-                        "server": "https://h.dfjx.ltd/"
-                    },
-                    {
-                        "name": "🐾小新",
-                        "server": "https://pan.cdnxin.top/"
-                    },
-                    {
-                        "name": "🐾白云",
-                        "server": "http://breadmyth.asuscomm.com:22222/"
-                    },
-                    {
-                        "name": "🐾小鸭",
-                        "server": "http://www.214728327.xyz:5201/"
-                    },
-                    {
-                        "name": "🐾瑶瑶",
-                        "server": "https://lyly.run.goorm.io/"
-                    },
-                    {
-                        "name": "🐾潇洒",
-                        "server": "https://alist.azad.asia/"
-                    },
-                    {
-                        "name": "🐾鹏程",
-                        "server": "https://pan.pengcheng.team/"
-                    },
-                    {
-                        "name": "🐾浅唱",
-                        "server": "http://vtok.pp.ua/"
-                    },
-                    {
-                        "name": "🐾小丫",
-                        "server": "http://alist.xiaoya.pro/"
-                    },
-                    {
-                        "name": "🐾触光",
-                        "server": "https://pan.ichuguang.com"
-                    },
-                    {
-                        "name": "🐾弱水",
-                        "server": "http://shicheng.wang:555/"
-                    },
-                    {
-                        "name": "🐾神器",
-                        "server": "https://alist.ygxz.xyz/"
-                    },
-                    {
-                        "name": "🐾资源",
-                        "server": "https://pan.ecve.cn/"
-                    },
-                    {
-                        "name": "🐾雨呢",
-                        "server": "https://pan.clun.top/"
-                    },
-                    {
-                        "name": "🐾oeio",
-                        "server": "https://o.oeio.repl.co/"
-                    },
-                    {
-                        "name": "🐾悦享",
-                        "server": "https://nics.eu.org/"
-                    },
-                    {
-                        "name": "🐾分享",
-                        "server": "https://ofoo.ml/"
-                    },
-                    {
-                        "name": "🐾PRO",
-                        "server": "https://alist.prpr.run/"
-                    },
-                    {
-                        "name": "🐾多多",
-                        "server": "https://pan.xwbeta.com"
-                    },
-                    {
-                        "name": "🐾小陈",
-                        "server": "https://ypan.cc/"
-                    },
-                    {
-                        "name": "🐾只鱼",
-                        "server": "https://alist.youte.ml"
-                    },
-                    {
-                        "name": "🐾七米",
-                        "server": "https://al.chirmyram.com"
-                    },
-                    {
-                        "name": "🐾九帝",
-                        "server": "https://alist.shenzjd.com"
-                    },
-                    {
-                        "name": "🐾白雪",
-                        "server": "https://pan.jlbx.xyz"
-                    },
-                    {
-                        "name": "🐾星梦",
-                        "server": "https://pan.bashroot.top"
-                    },
-                    {
-                        "name": "🐾repl",
-                        "server": "https://ali.liucn.repl.co"
-                    },
-                    {
-                        "name": "🐾讯维",
-                        "server": "https://pan.xwbeta.com"
-                    }
-                ]
-            }
-        ]
-    },
+   
     "rules": [
         {
             "name": "量子",
@@ -1573,7 +1282,7 @@
             ]
         }
     ],
-    "wallpaper": "http://52bsj.vip:82/late",
+    "wallpaper": " ",
     "ads": [
         "mimg.0c1q0l.cn",
         "www.googletagmanager.com",
