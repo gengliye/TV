@@ -63,7 +63,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "playurl": "https://jx.xmflv.com/?url=",
+            "playUrl": "https://jx.xmflv.com/?url=",
             "jar": "./jar/Aoki.jar"
         },
         {
@@ -754,39 +754,24 @@
         {"name": "-虾米-","type": 0,"url": "https://jx.xmflv.cc/?url="},
         {"name":"虾米key","type":0,"url":"https://150.138.78.37:4399/api/?key=94b07e0b2c0e8244&url="},
         {"name": "-冰豆解析-","type": 1,"url": "https://bd.jx.cn/?url=",
-        "ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"tucheng",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"yzm",
-					"aliyun",
-					"RJuMao",
-					"bilibili",
-					"1905",
-					"xinvip",
-					"XAL",
-					"qiqi",
-					"XALS",
-					"YuMi-vip"
-				]
-			}},
-        {"name": "-playerjy-","type": 0,"url": "https://jx.playerjy.com/?url="},
-        {"name": "-量子解析-","type": 0,"url": "https://lziplayer.com/?url="},
-        {"name":"-ik9-","type":0,"url":"https://yparse.ik9.cc/index.php?url="},
+        "ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv",
+					"芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]
+			}
+        },
+        {"name": "-playerjy-","type": 0,"url": "https://jx.playerjy.com/?url=",
+              "ext": {
+				"header": {
+					"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+				}
+			} 
+        },
+        {"name": "-量子解析-","type": 0,"url": "https://lziplayer.com/?url=",
+              "ext": {
+				"header": {
+					"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+				}
+			} 
+        },
         {"name": "官解1","type": 0,"url": "https://www.playm3u8.cn/jiexi.php?url=" ,
               "ext": {
 				"header": {
@@ -805,7 +790,7 @@
         {
             "name": "夜幕解析","type": 1,"url": "https://www.yemu.xyz/?url=",
             "ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺","奇艺","youku","优酷","mgtv", "芒果", "letv", "乐视", "pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
-                "header": {"User-Agent": "okhttp/4.1.0"}
+                    "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}
                   }
         },
         { "name": "-云解析-","type": 0,"url": "https://jx.yparse.com/index.php?url=","ext": {
