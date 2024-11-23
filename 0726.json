@@ -754,6 +754,10 @@
         {"name": "Json并发","type": 2,"url": "Parallel"},
         {"name": "-虾米-","type": 0,"url": "https://jx.xmflv.cc/?url="},
         {"name":"虾米key","type":0,"url":"https://150.138.78.37:4399/api/?key=94b07e0b2c0e8244&url="},
+        { "name": "qiyi[官源]", "type": 1, "url": "http://39.104.230.177:1122/lxjx/myyk.php?url=" },
+        { "name": "肥猫最", "type": 1, "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=", 
+                "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "tucheng", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "yzm", "aliyun", "RJuMao", "bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip" ] }
+                } ,
         {"name": "-冰豆解析-","type": 1,"url": "https://bd.jx.cn/?url=",
         "ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv",
 					"芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"],
@@ -804,6 +808,87 @@
 				}
 			}
     ],
+
+     "recommend": [
+        {
+            "name": "豆瓣推荐",
+            "request": {
+                "method": "GET",
+                "header": [
+                    {
+                        "key": "Referer",
+                        "value": "https://movie.douban.com/"
+                    }
+                ],
+                "url": {
+                    "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2023"
+                }
+            },
+            "response": {
+                "result": "$.data",
+                "data": [
+                    {
+                        "key": "name",
+                        "value": "title"
+                    },
+                    {
+                        "key": "note",
+                        "value": "rate"
+                    },
+                    {
+                        "key": "pic",
+                        "value": "cover"
+                    }
+                ]
+            },
+            "expires": "86400"
+        }
+    ],
+    "rating": [
+        {
+            "name": "豆瓣评分",
+            "request": {
+                "method": "GET",
+                "url": {
+                    "raw": "https://douban.cyao.repl.co/search?q={name}&limit=1"
+                }
+            },
+            "response": {
+                "result": "this",
+                "data": [
+                    {
+                        "key": "rating",
+                        "value": "rating"
+                    }
+                ]
+            }
+        }
+    ],
+    "association": [
+        {
+            "name": "iqiyi",
+            "request": {
+                "method": "GET",
+                "url": {
+                    "raw": "https://suggest.video.iqiyi.com/?if=mobile&key={query}"
+                }
+            },
+            "response": {
+                "result": "$.data",
+                "data": [
+                    {
+                        "key": "keyword",
+                        "value": "name"
+                    }
+                ]
+            }
+        }
+    ],
+
+
+
+
+
 
     "flags": [
         "youku", "qq","iqiyi","imgo","xueren","m1905", "qiyi", "letv","sohu", "tudou","pptv", "dbm3u8","mgtv",
@@ -1239,28 +1324,8 @@
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
-        {
-            "name": "lz",
-            "hosts": [
-                "vip.lz",
-                "hd.lz",
-                "v.cdnlz1",
-                "v.cdnlz"
-            ],
-            "regex": [
-                "18.5333"
-            ]
-        },
-        {
-            "name": "非凡",
-            "hosts": [
-                "vip.ffzy",
-                "hd.ffzy"
-            ],
-            "regex": [
-                "25.0666"
-            ]
-        },
+        
+      
         {
             "name": "hs",
             "hosts": [
@@ -1270,53 +1335,74 @@
                 "item_id="
             ]
         },
-        {
-            "name": "dy",
-            "hosts": [
-                "douyin.com"
-            ],
-            "regex": [
-                "is_play_url="
-            ]
-        },
-        {
-            "name": "nm",
-            "hosts": [
-                "toutiaovod.com"
-            ],
-            "regex": [
-                "video/tos/cn"
-            ]
-        },
-        {
-            "name": "cl",
-            "hosts": [
-                "magnet"
-            ],
-            "regex": [
-                "最 新",
-                "直 播",
-                "更 新"
-            ]
-        },
-        {
-            "name": "火山嗅探",
-            "hosts": [
-                "huoshan.com"
-            ],
-            "regex": [
-                "item_id="
-            ]
-        },
-        {
-            "name": "抖音嗅探",
-            "hosts": [
-                "douyin.com"
-            ],
-            "regex": [
-                "is_play_url="
-            ]
-        }
+     
+        {"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]},
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "农民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "七新嗅探",
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ]
+    },
+    {
+      "name": "夜市",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
+    {
+      "name": "毛驴",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    },
+    {
+      "name": "czzy",
+      "hosts": [
+        "10086.cn"
+      ],
+      "regex": [
+        "/storageWeb/servlet/downloadServlet"
+      ]
+    },
+    {"name":"bdys","hosts":["bytetos.com", "byteimg.com", "bytednsdoc.com", "pstatp.com"],"regex":["/tos-cn"],"exclude":[".m3u8"]},
+    {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
+       
     ],
     "wallpaper": " ",
     "ads": [
